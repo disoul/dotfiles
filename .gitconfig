@@ -1,0 +1,7 @@
+[user]
+	email = starky_ds@sina.cn
+	name = disoul
+[credential]
+	helper = store
+[push]
+	default = simple
