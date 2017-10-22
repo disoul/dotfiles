@@ -17,3 +17,68 @@ Host anlink2
 Host test
   HostName 10.139.1.5
   User root
+
+Host phobal
+  HostName 10.139.162.7
+  User monday
+
+Host test1
+  HostName 10.253.104.26
+  User admin
+
+Host test2
+  HostName 10.253.10.179
+  User admin
+
+Host jiangnan1
+  HostName 202.195.144.65
+  User disoul
+
+Host nagisa
+  HostName 120.26.114.168
+  User disoul
+
+Host ushio
+  HostName 106.14.155.194
+  User disoul
+
+Host ryo
+  HostName 106.14.137.21
+  User disoul
+
+Host kyo
+  HostName 106.14.123.253
+  User disoul
+
+Host fuko
+  HostName 106.14.176.23
+  User disoul
+
+Host haruhi
+  HostName 106.14.153.238
+  User disoul
+
+Host machine
+  HostName 10.253.13.143
+  User admin
+
+Host machine2
+  HostName 10.139.176.238
+  User disoul
+
+Host videotest
+  HostName 10.253.9.183
+  User admin
+  #  Pwd  admin123
+
+Host dockertest
+  HostName 10.253.10.1
+  User admin
+
+Host kingkong
+  HostName 192.168.26.125
+  User disoul
+
+Host megumi
+  HostName 172.104.189.26
+  User disoul
