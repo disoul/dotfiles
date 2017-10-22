@@ -1,0 +1,6 @@
+pane	0	1	:zsh	1	:*	1	:/Users/disoul/Documents/zatlas	0	zsh	:
+pane	0	1	:zsh	1	:*	2	:/Users/disoul/Documents/zatlas/release/Zatlas-darwin-x64/Zatlas.app/Contents/Resources/app	1	zsh	:-zsh
+pane	0	1	:zsh	1	:*	3	:/Users/disoul/Documents/zatlas/src	0	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v src/main.js
+pane	0	1	:zsh	1	:*	4	:	0	top	:top
+window	0	1	1	:*	6e47,178x45,0,0{89x45,0,0[89x22,0,0,0,89x22,0,23,4],88x45,90,0[88x22,90,0,1,88x22,90,23,3]}
+state	0	

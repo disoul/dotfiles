@@ -1,0 +1,8 @@
+pane	0	1	:vim	1	:*	1	:/Users/disoul/Documents/ann	0	node	:npm  
+pane	0	1	:vim	1	:*	2	:/Users/disoul/.ssh	1	vim	:vim .ssh/config
+pane	0	2	:zsh	0	:-	1	:/Users/disoul/Documents/ann/src	1	zsh	:
+pane	1	1	:zsh	1	:*	1	:/Users/disoul/Documents/GridBoard	1	zsh	:
+window	0	1	1	:*	7468,236x58,0,0{118x58,0,0,0,117x58,119,0,1}
+window	0	2	0	:-	d05f,236x58,0,0,2
+window	1	1	1	:*	d060,236x58,0,0,3
+state	1	

@@ -1,0 +1,4 @@
+pane	0	1	:vim	1	:*	1	:/Users/disoul/Documents/web	0	node	:node /Users/disoul/.nvm/versions/node/v6.8.0/bin/shader-school
+pane	0	1	:vim	1	:*	2	:/Users/disoul/Documents/web/06-intro-6	1	vim	:vim 06-intro-6/mpow.glsl
+window	0	1	1	:*	b74b,178x46,0,0{89x46,0,0,0,88x46,90,0,1}
+state	0	

@@ -1,0 +1,6 @@
+pane	0	1	:zsh	1	:*	1	:/Users/disoul/github/spider_man/manager	0	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v manager/manager.js
+pane	0	1	:zsh	1	:*	2	:/Users/disoul/github/spider_man	1	zsh	:
+pane	0	1	:zsh	1	:*	3	:/Users/disoul/Downloads	0	zsh	:
+pane	0	1	:zsh	1	:*	4	:/Users/disoul/Downloads	0	node	:node --harmony
+window	0	1	1	:*	7583,176x44,0,0{88x44,0,0,1,87x44,89,0[87x23,89,0,5,87x9,89,24,6,87x10,89,34,8]}
+state	0	

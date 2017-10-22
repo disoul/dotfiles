@@ -1,0 +1,4 @@
+pane	0	1	:vim	1	:*	1	:/Users/disoul/Documents/Ryou/cli	1	vim	:vim ./cli/action-client.js
+pane	0	1	:vim	1	:*	2	:/Users/disoul	0	vim	:vim .ryourc
+window	0	1	1	:*	85f0,201x49,0,0{100x49,0,0,0,100x49,101,0,2}
+state	0	

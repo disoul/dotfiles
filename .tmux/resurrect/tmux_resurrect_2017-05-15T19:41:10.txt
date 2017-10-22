@@ -1,0 +1,4 @@
+pane	0	1	:git	1	:*	1	:/Users/disoul/github/spider_man/manager	0	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v manager.js
+pane	0	1	:git	1	:*	2	:/Users/disoul/github/spider_man	1	git	:/Applications/Xcode.app/Contents/Developer/usr/bin/git push origin develop
+window	0	1	1	:*	e6e6,236x55,0,0{118x55,0,0,0,117x55,119,0,1}
+state	0	

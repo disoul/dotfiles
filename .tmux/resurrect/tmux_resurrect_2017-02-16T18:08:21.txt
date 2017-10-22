@@ -1,0 +1,53 @@
+pane	0	1	:zsh	0	:#-	1	:/Users/disoul/Documents/web/particle	0	zsh	:
+pane	0	1	:zsh	0	:#-	2	:/Users/disoul/Documents/web/particle	1	zsh	:
+pane	0	2	:vim	1	:*	1	:/Users/disoul/Documents/web/particle/src	1	vim	:vim flow.js
+pane	0	2	:vim	1	:*	2	:/Users/disoul/Documents/web/particle/src	0	vim	:vim main.js
+pane	1	1	:zsh	1	:*	1	:/Users/disoul/Documents/lmap-react/components/ScatterMarkers	0	vim	:vim ScatterMarkers/ScatterMarkers.jsx
+pane	1	1	:zsh	1	:*	2	:/Users/disoul/Documents/lmap/layer/link_konva	0	vim	:vim createLinkPoints.js
+pane	1	1	:zsh	1	:*	3	:/Users/disoul/Documents/cloud	1	zsh	:
+pane	1	2	:zsh	0	:#-	1	:/Users/disoul/Documents/cloud	1	zsh	:
+pane	1	2	:zsh	0	:#-	2	:/Users/disoul/Documents/cloud/src/containers/people-cloud	0	vim	:vim index.js
+pane	2	1	:zsh	1	:*	1	:/Users/disoul/Documents/muyang	1	zsh	:
+pane	3	1	:zsh	0	:-	1	:/Users/disoul/Documents/bilibili-mifans	1	zsh	:
+pane	3	1	:zsh	0	:-	2	:	0	sudo	:sudo mongod
+pane	3	2	:zsh	1	:*	1	:/Users/disoul/Documents/bilibili-mifans/amqp	0	vim	:vim worker.js
+pane	3	2	:zsh	1	:*	2	:/Users/disoul/Documents/bilibili-mifans/amqp	1	zsh	:
+pane	3	2	:zsh	1	:*	3	:/Users/disoul/Documents/bilibili-mifans/amqp	0	zsh	:
+pane	3	2	:zsh	1	:*	4	:/Users/disoul/Documents/bilibili-mifans/amqp	0	vim	:vim new_task.js
+pane	3	2	:zsh	1	:*	5	:/Users/disoul/Documents/bilibili-mifans/amqp	0	zsh	:
+pane	4	1	:vim	1	:*	1	:/Users/disoul/Documents/muyang	1	vim	:vim webpack.config.js
+pane	5	1	:vim	1	:*	1	:/Users/disoul/Documents/muyang	1	vim	:vim webpack.config.js
+pane	5	1	:vim	1	:*	2	:/Users/disoul/Documents/muyang	0	zsh	:
+pane	5	1	:vim	1	:*	3	:/Users/disoul/Documents/muyang	0	vim	:vim webpack.config.js
+pane	5	2	:vim	0	:#-	1	:/Users/disoul/Documents/muyang/src/components/Tabs	1	vim	:vim Tabs.jsx
+pane	5	2	:vim	0	:#-	2	:/Users/disoul/Documents/muyang/src/scenes/medical/SliderList	0	vim	:vim SliderList.jsx
+pane	6	1	:zsh	0	:#-	1	:/Users/disoul/Documents/coding/wxwhg_OR	1	zsh	:
+pane	6	1	:zsh	0	:#-	2	:/Users/disoul/Documents/coding/wxwhg_OR	0	python2.7	:python ./manage.py runserver
+pane	6	2	:zsh	1	:*	1	:/Users/disoul/Documents/muyang	1	zsh	:
+pane	6	2	:zsh	1	:*	2	:/Users/disoul/Documents/coding/wxwhg_OR/wxwhgOR/controller	0	vim	:vim search.py
+pane	6	2	:zsh	1	:*	3	:/Users/disoul/Documents/coding/wxwhg_OR/wxwhgOR/templates	0	vim	:vim templates/index.html
+pane	7	1	:zsh	1	:*	1	:/Users/disoul/Documents/ACloud	1	zsh	:
+pane	7	1	:zsh	1	:*	2	:/Users/disoul/Documents/ACloud	0	git	:/Applications/Xcode.app/Contents/Developer/usr/bin/git log
+pane	7	2	:vim	0	:-	1	:/Users/disoul/Documents/ACloud/src/news/en	1	vim	:vim news/en/6.html
+pane	8	1	:vim	0	:#-	1	:/Users/disoul/Documents/muyang	0	node	:npm  
+pane	8	1	:vim	0	:#-	2	:/Users/disoul/Documents/muyang	0	vim	:vim postcss.config.js
+pane	8	1	:vim	0	:#-	3	:/Users/disoul/Documents/muyang/dist	1	vim	:vim dist/index.html
+pane	8	2	:vim	1	:*	1	:/Users/disoul/Documents/zcontrol	0	zsh	:mongod
+pane	8	2	:vim	1	:*	2	:/Users/disoul/Documents/muyang/src/datas	1	vim	:vim disease_scene.js
+window	0	1	0	:#-	5723,176x44,0,0{88x44,0,0,0,87x44,89,0,2}
+window	0	2	1	:*	d727,176x44,0,0{88x44,0,0,1,87x44,89,0,3}
+window	1	1	1	:*	e868,176x44,0,0{88x44,0,0[88x21,0,0,4,88x22,0,22,8],87x44,89,0,5}
+window	1	2	0	:#-	d73d,176x44,0,0{88x44,0,0,6,87x44,89,0,7}
+window	2	1	1	:*	bf46,176x44,0,0,9
+window	3	1	0	:-	14e7,176x45,0,0[176x23,0,0,11,176x21,0,24,13]
+window	3	2	1	:*	8baa,176x45,0,0{88x45,0,0[88x33,0,0,14,88x11,0,34{44x11,0,34,22,43x11,45,34,23}],87x45,89,0[87x33,89,0,20,87x11,89,34,21]}
+window	4	1	1	:*	e1d3,176x45,0,0,24
+window	5	1	1	:*	92c1,176x45,0,0{88x45,0,0,25,87x45,89,0[87x22,89,0,26,87x22,89,23,27]}
+window	5	2	0	:#-	2932,176x45,0,0{88x45,0,0,28,87x45,89,0,29}
+window	6	1	0	:#-	691f,176x45,0,0{88x45,0,0,30,87x45,89,0,31}
+window	6	2	1	:*	beaf,176x45,0,0{88x45,0,0,32,87x45,89,0[87x33,89,0,33,87x11,89,34,34]}
+window	7	1	1	:*	e92b,176x45,0,0{88x45,0,0,35,87x45,89,0,36}
+window	7	2	0	:-	61d7,176x45,0,0,37
+window	8	1	0	:#-	d3a1,176x45,0,0{88x45,0,0,38,87x45,89,0[87x22,89,0,39,87x22,89,23,40]}
+window	8	2	1	:*	a923,176x45,0,0{88x45,0,0,41,87x45,89,0,43}
+state	8	

@@ -1,0 +1,26 @@
+pane	0	1	:zsh	1	:*	1	:/Users/disoul/Documents/zgrid	1	zsh	:
+pane	1	1	:zsh	1	:*	1	:/Users/disoul/Documents/dunkey/lib	0	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v worker.js
+pane	1	1	:zsh	1	:*	2	:/Users/disoul/Documents/dunkey/lib	0	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v hashcash.js
+pane	1	1	:zsh	1	:*	3	:/Users/disoul/Documents/muyang/dist	1	zsh	:
+pane	1	1	:zsh	1	:*	4	:/Users/disoul/Documents/muyang/server	0	zsh	:
+pane	2	1	:zsh	0	:#-	1	:/Users/disoul/github/database	0	zsh	:
+pane	2	1	:zsh	0	:#-	2	:/Users/disoul/github/database/app	1	zsh	:
+pane	2	2	:Vim	1	:*	1	:/Users/disoul/github/database/app/src/container/ModelPage	0	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v index.js
+pane	2	2	:Vim	1	:*	2	:/Users/disoul/github/database/model/schema	0	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v model/schema/house_years_price.js
+pane	2	2	:Vim	1	:*	3	:/Users/disoul/github/database/app/src/container/ModelPage/components/ModelChart	1	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v index.jsx
+pane	2	2	:Vim	1	:*	4	:/Users/disoul/github/database/app/src/container/ModelPage/components/ModelChart	0	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v index.css
+pane	3	1	:Vim	1	:*	1	:/Users/disoul/Documents/dunkey/lib	0	zsh	:
+pane	3	1	:Vim	1	:*	2	:/Users/disoul/Documents/dunkey/bower_components/fetch	1	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v fetch/fetch.js
+pane	4	1	:node	0	:#-	1	:/Users/disoul/github/database	1	node	:node /Users/disoul/.nvm/versions/node/v7.6.0/bin/nodemon ./server/bin/www
+pane	4	1	:node	0	:#-	2	:/Users/disoul/github/database/app	0	node	:npm  
+pane	4	2	:Vim	1	:*	1	:/Users/disoul/github/database/app/src/container/ModelPage/components/ModelChart	1	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v ModelChart/index.jsx
+pane	4	2	:Vim	1	:*	2	:/Users/disoul/github/database/model/schema	0	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v model/schema/house_years_price.js
+pane	4	2	:Vim	1	:*	3	:/Users/disoul/github/database/app	0	zsh	:
+window	0	1	1	:*	c45d,236x55,0,0,0
+window	1	1	1	:*	bef8,236x55,0,0{118x55,0,0[118x21,0,0,1,118x33,0,22,4],117x55,119,0[117x27,119,0,2,117x27,119,28,3]}
+window	2	1	0	:#-	66ee,236x55,0,0{118x55,0,0,5,117x55,119,0,6}
+window	2	2	1	:*	86fd,236x55,0,0{118x55,0,0[118x27,0,0,7,118x27,0,28,9],117x55,119,0[117x27,119,0,8,117x27,119,28,10]}
+window	3	1	1	:*	200c,236x55,0,0{118x55,0,0,11,117x55,119,0,16}
+window	4	1	0	:#-	a00b,236x55,0,0{118x55,0,0,12,117x55,119,0,14}
+window	4	2	1	:*	44eb,236x55,0,0{118x55,0,0[118x34,0,0,13,118x20,0,35,17],117x55,119,0,15}
+state	3	

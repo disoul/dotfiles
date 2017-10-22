@@ -1,0 +1,35 @@
+pane	0	1	:zsh	1	:*	1	:/Users/disoul/Documents/web/chengshi/static	0	zsh	:
+pane	0	1	:zsh	1	:*	2	:/Users/disoul/github/database/config	0	vim	:vim config/pg.js
+pane	0	1	:zsh	1	:*	3	:/Users/disoul/Documents/web/chengshi/static	1	zsh	:
+pane	0	2	:zsh	0	:-	1	:/Users/disoul/Documents/web/chengshi	1	zsh	:
+pane	0	2	:zsh	0	:-	2	:/Users/disoul/Documents/web/chengshi/static/src/container	0	vim	:vim src/container/App.jsx
+pane	0	2	:zsh	0	:-	3	:/Users/disoul/Documents/exchange/exchange/src	0	zsh	:
+pane	1	1	:zsh	1	:*	1	:/Users/disoul/github/database	1	zsh	:
+pane	1	1	:zsh	1	:*	2	:/Users/disoul/github/database/app	0	zsh	:
+pane	1	1	:zsh	1	:*	3	:/Users/disoul/github/database	0	vim	:vim test.js
+pane	1	2	:zsh	0	:#-	1	:/Users/disoul/github/database/app/src/components	1	zsh	:
+pane	1	2	:zsh	0	:#-	2	:/Users/disoul/github/database/app/src/container	0	vim	:vim container/Estate.jsx
+pane	1	2	:zsh	0	:#-	3	:/Users/disoul/Documents/muyang/src/components	0	vim	:vim components/App.jsx
+pane	2	1	:zsh	0	:#-	1	:/Users/disoul/Documents/ann	0	node	:npm  
+pane	2	1	:zsh	0	:#-	2	:/Users/disoul/Documents/ann	1	zsh	:
+pane	2	2	:vim	1	:*	1	:/Users/disoul/Documents/ann/src/containers/SolutionPage	0	vim	:vim SolutionPage/index.jsx
+pane	2	2	:vim	1	:*	2	:/Users/disoul/Documents/ann/src/containers	1	vim	:vim containers/Ann.jsx
+pane	2	2	:vim	1	:*	3	:/Users/disoul/Documents/ann/src/containers/SolutionPage/css	0	vim	:vim index.css
+pane	2	2	:vim	1	:*	4	:/Users/disoul/Documents/ann/src/containers/ProductPage/css	0	vim	:vim css/inedx.css
+pane	3	1	:vim	1	:*	1	:/Users/disoul/Documents/GridBoard/examples/basic	0	vim	:vim app.js
+pane	3	1	:vim	1	:*	2	:/Users/disoul/Documents/ann/src	1	vim	:vim app.js
+pane	4	1	:vim	1	:*	1	:/Users/disoul/Documents/dunkey	0	zsh	:
+pane	4	1	:vim	1	:*	2	:/Users/disoul/Documents/dunkey/dist	0	vim	:vim index.html
+pane	4	1	:vim	1	:*	3	:/Users/disoul/Documents/dunkey	0	zsh	:
+pane	4	1	:vim	1	:*	4	:/Users/disoul/Documents/dunkey/src/model	1	vim	:vim src/model/request.js
+pane	4	2	:zsh	0	:#-	1	:/Users/disoul/Documents/dunkey	1	zsh	:
+window	0	1	1	:*	0e1a,236x58,0,0{117x58,0,0[117x28,0,0,0,117x29,0,29,3],118x58,118,0,2}
+window	0	2	0	:-	8531,236x58,0,0{130x58,0,0[130x34,0,0,6,130x23,0,35,8],105x58,131,0,7}
+window	1	1	1	:*	8721,236x58,0,0{120x58,0,0,9,115x58,121,0[115x37,121,0,10,115x20,121,38,12]}
+window	1	2	0	:#-	cb76,236x58,0,0{120x58,0,0,11,115x58,121,0[115x31,121,0,13,115x26,121,32,14]}
+window	2	1	0	:#-	7fb6,236x58,0,0{117x58,0,0,15,118x58,118,0,16}
+window	2	2	1	:*	f9f3,236x58,0,0{118x58,0,0[118x29,0,0,17,118x28,0,30,28],117x58,119,0[117x29,119,0,25,117x28,119,30,27]}
+window	3	1	1	:*	43ce,236x58,0,0{118x58,0,0,18,117x58,119,0,22}
+window	4	1	1	:*	59f2,236x58,0,0{118x58,0,0[118x29,0,0,19,118x28,0,30,24],117x58,119,0[117x29,119,0,20,117x28,119,30,23]}
+window	4	2	0	:#-	e860,236x58,0,0,21
+state	4	

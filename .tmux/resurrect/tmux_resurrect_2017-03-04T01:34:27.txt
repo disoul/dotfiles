@@ -1,0 +1,7 @@
+pane	0	1	:node	0	:#-	1	:/Users/disoul/Documents/web/chengshi/service	0	zsh	:
+pane	0	1	:node	0	:#-	2	:/Users/disoul/github/database/config	0	vim	:vim config/pg.js
+pane	0	1	:node	0	:#-	3	:/Users/disoul/Documents/web/chengshi/static	1	node	:npm  
+pane	0	2	:zsh	1	:*	1	:/Users/disoul/Documents/web/chengshi	1	zsh	:
+window	0	1	0	:#-	24af,178x43,0,0{89x43,0,0[89x21,0,0,0,89x21,0,22,3],88x43,90,0,2}
+window	0	2	1	:*	bc43,178x43,0,0,6
+state	0	

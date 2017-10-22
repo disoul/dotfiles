@@ -1,0 +1,4 @@
+pane	0	1	:zsh	1	:*	1	:/Users/disoul/github/chengshi3/service	0	node	:node ./bin/www -s rds
+pane	0	1	:zsh	1	:*	2	:/Users/disoul/github/chengshi3	1	zsh	:
+window	0	1	1	:*	6b67,236x56,0,0{118x56,0,0,0,117x56,119,0,1}
+state	0	

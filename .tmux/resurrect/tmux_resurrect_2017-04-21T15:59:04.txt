@@ -1,0 +1,6 @@
+pane	0	1	:zsh	1	:*	1	:/Users/disoul/Documents/zatlas/src/components/Charts/Bar	1	zsh	:
+pane	0	1	:zsh	1	:*	2	:/Users/disoul/Documents/zatlas/src/components/Charts	0	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v baseChart.js
+pane	0	2	:node	0	:#-	1	:/Users/disoul/Documents/zatlas	1	node	:npm  
+window	0	1	1	:*	e6ea,236x55,0,0{118x55,0,0,2,117x55,119,0,5}
+window	0	2	0	:#-	c461,236x55,0,0,4
+state	0	

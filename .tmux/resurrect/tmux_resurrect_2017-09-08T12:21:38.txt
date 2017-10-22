@@ -1,0 +1,8 @@
+pane	0	1	:node	1	:*	1	:/Users/disoul/github/chengshi3/service	1	node	:node ./bin/www -s rds
+pane	0	1	:node	1	:*	2	:/Users/disoul/github/chengshi3/static	0	node	:npm  
+pane	0	2	:Vim	0	:#-	1	:/Users/disoul/github/chengshi3/service/routes/database	1	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v database/index.js
+pane	0	2	:Vim	0	:#-	2	:/Users/disoul/github/chengshi3/service	0	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v app.js
+pane	0	2	:Vim	0	:#-	3	:/Users/disoul/github/chengshi3/service/db/dbLinkPool	0	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v index.js
+window	0	1	1	:*	6b67,236x56,0,0{118x56,0,0,0,117x56,119,0,1}
+window	0	2	0	:#-	9dbe,236x56,0,0{118x56,0,0,2,117x56,119,0[117x28,119,0,3,117x27,119,29,4]}
+state	0	

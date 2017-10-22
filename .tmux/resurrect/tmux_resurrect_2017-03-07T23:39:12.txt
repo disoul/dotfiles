@@ -1,0 +1,41 @@
+pane	0	1	:zsh	1	:*	1	:/Users/disoul/Documents/web/chengshi/static	0	zsh	:
+pane	0	1	:zsh	1	:*	2	:/Users/disoul/github/database/config	0	vim	:vim config/pg.js
+pane	0	1	:zsh	1	:*	3	:/Users/disoul/Documents/web/chengshi/static	1	zsh	:
+pane	0	2	:zsh	0	:#-	1	:/Users/disoul/Documents/web/chengshi	1	zsh	:
+pane	0	2	:zsh	0	:#-	2	:/Users/disoul/Documents/web/chengshi/static/src/container	0	vim	:vim src/container/App.jsx
+pane	0	2	:zsh	0	:#-	3	:/Users/disoul/Documents/exchange/exchange/src	0	zsh	:
+pane	1	1	:zsh	0	:-	1	:/Users/disoul/github/database/app	1	zsh	:
+pane	1	1	:zsh	0	:-	2	:/Users/disoul/github/database/app	0	zsh	:
+pane	1	1	:zsh	0	:-	3	:/Users/disoul/github/database	0	vim	:vim test.js
+pane	1	2	:zsh	1	:*	1	:/Users/disoul/github/database/app/src/components	1	zsh	:
+pane	1	2	:zsh	1	:*	2	:/Users/disoul/github/database/app/src/container	0	vim	:vim container/Estate.jsx
+pane	1	2	:zsh	1	:*	3	:/Users/disoul/Documents/muyang/src/components	0	vim	:vim components/App.jsx
+pane	2	1	:zsh	1	:*	1	:/Users/disoul/Documents/ann	1	zsh	:
+pane	2	1	:zsh	1	:*	2	:/Users/disoul/Documents/ann	0	zsh	:
+pane	2	2	:zsh	0	:#-	1	:/Users/disoul/Documents/ann/src/containers/ProductPage	0	vim	:vim containers/ProductPage/ProductPage.jsx
+pane	2	2	:zsh	0	:#-	2	:/Users/disoul/Documents/ann/src/containers/SolutionPage/locales	0	vim	:vim locales/side.js
+pane	2	2	:zsh	0	:#-	3	:/Users/disoul/Documents/ann	1	zsh	:
+pane	3	1	:node	1	:*	1	:/Users/disoul/Documents/GridBoard	1	node	:node --harmony fuse.config.js
+pane	3	1	:node	1	:*	2	:/Users/disoul/Documents/GridBoard/examples/basic	0	zsh	:
+pane	4	1	:zsh	1	:*	1	:/Users/disoul/Documents/dunkey/dist	0	vim	:vim index.html
+pane	4	1	:zsh	1	:*	2	:/Users/disoul/Documents/dunkey	1	zsh	:
+pane	4	1	:zsh	1	:*	3	:/Users/disoul/Documents/dunkey/src/model	0	vim	:vim token.js
+pane	4	1	:zsh	1	:*	4	:/Users/disoul/Documents/dunkey/src/model	0	vim	:vim src/model/request.js
+pane	4	2	:zsh	0	:#-	1	:/Users/disoul/Documents/dunkey	1	zsh	:
+pane	5	1	:zsh	1	:*	1	:/Users/disoul/Documents/muyang/src/datas	1	zsh	:
+pane	6	1	:vim	1	:*	1	:/Users/disoul/github/database/server/routes	1	vim	:vim api.js
+pane	6	1	:vim	1	:*	2	:/Users/disoul/github/database/server/routes	0	vim	:vim index.js
+pane	6	2	:zsh	0	:-	1	:/Users/disoul/github/database	1	zsh	:
+window	0	1	1	:*	8a3a,177x42,0,0{87x42,0,0[87x20,0,0,0,87x21,0,21,3],89x42,88,0,2}
+window	0	2	0	:#-	b02c,177x42,0,0{100x42,0,0[100x26,0,0,6,100x15,0,27,8],76x42,101,0,7}
+window	1	1	0	:-	446a,177x42,0,0{90x42,0,0,9,86x42,91,0[86x29,91,0,10,86x12,91,30,12]}
+window	1	2	1	:*	ead8,177x42,0,0{90x42,0,0,11,86x42,91,0[86x23,91,0,13,86x18,91,24,14]}
+window	2	1	1	:*	7746,177x42,0,0{87x42,0,0,15,89x42,88,0,16}
+window	2	2	0	:#-	dc17,177x42,0,0{88x42,0,0,17,88x42,89,0[88x21,89,0,25,88x20,89,22,29]}
+window	3	1	1	:*	bbba,177x42,0,0{88x42,0,0,18,88x42,89,0,22}
+window	4	1	1	:*	3ead,177x42,0,0{88x42,0,0[88x21,0,0,19,88x20,0,22,24],88x42,89,0[88x21,89,0,20,88x20,89,22,23]}
+window	4	2	0	:#-	dc10,177x42,0,0,21
+window	5	1	1	:*	5c10,177x42,0,0,30
+window	6	1	1	:*	7bb1,177x42,0,0{88x42,0,0,32,88x42,89,0,33}
+window	6	2	0	:-	5c14,177x42,0,0,34
+state	6	

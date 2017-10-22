@@ -1,0 +1,7 @@
+pane	0	1	:node	0	:#-	1	:/Users/disoul/Documents/zatlas	1	node	:npm  
+pane	0	1	:node	0	:#-	2	:/Users/disoul/Documents/zatlas/build/libs/eul	0	node	:npm  
+pane	0	2	:Vim	1	:*	1	:/Users/disoul/Documents/zatlas/src/libs/react-grid-layout/lib	0	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v lib/GridItem.jsx
+pane	0	2	:Vim	1	:*	2	:/Users/disoul/Documents/zatlas/src/libs/react-grid-layout/lib	1	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v ReactGridLayout.jsx
+window	0	1	0	:#-	9ba5,236x62,0,0{118x62,0,0,0,117x62,119,0,1}
+window	0	2	1	:*	9ba8,236x62,0,0{118x62,0,0,2,117x62,119,0,3}
+state	0	

@@ -1,0 +1,4 @@
+pane	0	1	:vim	1	:*	1	:/Users/disoul/Documents/ACloud/dist	1	vim	:vim index.html
+pane	0	1	:vim	1	:*	2	:/Users/disoul/Documents/ACloud/src	0	vim	:vim app.js
+window	0	1	1	:*	fcee,201x47,0,0{100x47,0,0,0,100x47,101,0,1}
+state	0	

@@ -1,0 +1,6 @@
+pane	0	1	:zsh	1	:*	1	:/Users/disoul/github/spider_man	1	zsh	:
+pane	0	1	:zsh	1	:*	2	:/Users/disoul/github/spider_man	0	node	:node --harmony
+pane	0	1	:zsh	1	:*	3	:/Users/disoul/github/spider_man/task/url/model	0	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v task/url/model/sql.js
+pane	0	1	:zsh	1	:*	4	:/Users/disoul/github/spider_man	0	zsh	:
+window	0	1	1	:*	7fef,236x55,0,0{118x55,0,0[118x46,0,0,0,118x8,0,47,3],117x55,119,0[117x12,119,0,1,117x42,119,13,2]}
+state	0	

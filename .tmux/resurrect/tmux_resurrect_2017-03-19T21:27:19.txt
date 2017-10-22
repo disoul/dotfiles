@@ -1,0 +1,6 @@
+pane	0	1	:node	1	:*	1	:/Users/disoul/Documents/cloud	1	node	:npm  
+pane	0	1	:node	1	:*	2	:/Users/disoul/Documents/cloud	0	vim	:vim webpack.config.js
+pane	0	2	:zsh	0	:-	1	:/Users/disoul/Documents/cloud	1	zsh	:
+window	0	1	1	:*	f33b,178x42,0,0{89x42,0,0,0,88x42,90,0,2}
+window	0	2	0	:-	b83e,178x42,0,0,1
+state	0	

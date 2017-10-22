@@ -1,0 +1,4 @@
+pane	0	1	:node	1	:*	1	:/Users/disoul/github/spider_man	1	node	:node --harmony
+pane	0	1	:node	1	:*	2	:/Users/disoul/github/spider_man/task/tasks/ofo/ofo_car	0	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v task/tasks/ofo/ofo_car/config.js
+window	0	1	1	:*	e6e6,236x55,0,0{118x55,0,0,0,117x55,119,0,1}
+state	0	

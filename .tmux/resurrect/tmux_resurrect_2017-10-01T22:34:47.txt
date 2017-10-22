@@ -1,0 +1,13 @@
+pane	0	1	:zsh	1	:*	1	:/Users/disoul/Documents/zatlas/build/libs/eul	1	zsh	:
+pane	1	1	:zsh	1	:*	1	:/Users/disoul/github/chengshi3/static	0	zsh	:
+pane	1	1	:zsh	1	:*	2	:/Users/disoul/github/chengshi3	0	node	:node --harmony
+pane	1	1	:zsh	1	:*	3	:/Users/disoul/github/chengshi3/service	1	zsh	:
+pane	2	1	:node	0	:-	1	:/Users/disoul/Documents/imagetech	1	node	:npm  
+pane	2	2	:Vim	1	:*	1	:/Users/disoul/Documents/imagetech/src	0	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v router.js
+pane	2	2	:Vim	1	:*	2	:/Users/disoul/Documents/imagetech	1	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v package.json
+pane	2	2	:Vim	1	:*	3	:/Users/disoul/Documents/videodetect	0	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v package.json
+window	0	1	1	:*	c73d,176x46,0,0,0
+window	1	1	1	:*	3341,176x45,0,0{88x45,0,0[88x8,0,0,1,88x36,0,9,3],87x45,89,0,2}
+window	2	1	0	:-	c341,176x45,0,0,4
+window	2	2	1	:*	6163,176x45,0,0{88x45,0,0,5,87x45,89,0[87x22,89,0,6,87x22,89,23,7]}
+state	2	

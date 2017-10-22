@@ -1,0 +1,4 @@
+pane	0	1	:zsh	1	:*	1	:/Users/disoul/Documents/dunkey/src	0	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v app.js
+pane	0	1	:zsh	1	:*	2	:/Users/disoul/Documents/dunkey/dist	1	zsh	:
+window	0	1	1	:*	a647,178x45,0,0{89x45,0,0,0,88x45,90,0,1}
+state	0	

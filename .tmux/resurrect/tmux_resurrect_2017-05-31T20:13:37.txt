@@ -1,0 +1,11 @@
+pane	0	1	:zsh	1	:*	1	:/Users/disoul/test	0	zsh	:
+pane	0	1	:zsh	1	:*	2	:/Users/disoul/test	1	zsh	:
+pane	1	1	:node	1	:*	1	:/Users/disoul/homework/video	1	node	:npm  
+pane	1	1	:node	1	:*	2	:/Users/disoul/homework/video	0	node	:npm   
+pane	1	2	:Vim	0	:#-	1	:/Users/disoul/homework/video/src/routes	1	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v routes/IndexPage.js
+pane	1	2	:Vim	0	:#-	2	:/Users/disoul/homework/video/src	0	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v main.js
+pane	1	2	:Vim	0	:#-	3	:/Users/disoul/homework/video/src/components	0	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v Player.jsx
+window	0	1	1	:*	9e96,236x55,0,0{100x55,0,0,0,135x55,101,0,1}
+window	1	1	1	:*	e6ec,236x55,0,0{118x55,0,0,3,117x55,119,0,7}
+window	1	2	0	:#-	0451,236x55,0,0{118x55,0,0[118x30,0,0,4,118x24,0,31,6],117x55,119,0,5}
+state	1	

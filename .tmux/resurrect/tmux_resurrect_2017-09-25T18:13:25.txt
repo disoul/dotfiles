@@ -1,0 +1,7 @@
+pane	0	1	:node	0	:#-	1	:/Users/disoul/Documents/zatlas/build/libs/eul	0	node	:npm  
+pane	0	1	:node	0	:#-	2	:/Users/disoul/Documents/zatlas	1	node	:npm  
+pane	0	2	:Vim	1	:*	1	:/Users/disoul/Documents/zatlas/src/routes/MainPage/components/ConfigSide	1	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v routes/MainPage/components/ConfigSide/index.js
+pane	0	2	:Vim	1	:*	2	:/Users/disoul/Documents/zatlas/src/routes/MainPage/components/StyleEditor	0	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v components/StyleEditor/index.js
+window	0	1	0	:#-	33f7,236x56,0,0{121x56,0,0,0,114x56,122,0,1}
+window	0	2	1	:*	6b6a,236x56,0,0{118x56,0,0,2,117x56,119,0,3}
+state	0	

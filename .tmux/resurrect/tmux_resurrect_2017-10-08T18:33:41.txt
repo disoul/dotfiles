@@ -1,0 +1,5 @@
+pane	0	1	:zsh	1	:*	1	:/Users/disoul/github/chengshi3/service	0	node	:node ./bin/www -s rds
+pane	0	1	:zsh	1	:*	2	:/Users/disoul/github/chengshi3/static	1	zsh	:
+pane	0	1	:zsh	1	:*	3	:/Users/disoul/github/chengshi3/static	0	zsh	:
+window	0	1	1	:*	1c5d,176x45,0,0{88x45,0,0,0,87x45,89,0[87x22,89,0,1,87x22,89,23,2]}
+state	0	

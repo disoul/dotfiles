@@ -1,0 +1,26 @@
+pane	0	1	:zsh	1	:*	1	:/Users/disoul/Documents/muyang	1	zsh	:
+pane	0	1	:zsh	1	:*	2	:/Users/disoul/Documents/muyang	0	zsh	:
+pane	0	2	:vim	0	:#-	1	:/Users/disoul/Documents/muyang/src/components/Card	1	vim	:vim Card.jsx
+pane	0	2	:vim	0	:#-	2	:/Users/disoul/Documents/muyang/src/components/Scene	0	vim	:vim Card/Card.jsx
+vim Scene/Scene.jsx
+pane	0	2	:vim	0	:#-	3	:/Users/disoul/Documents/muyang/src/components	0	zsh	:
+pane	0	2	:vim	0	:#-	4	:/Users/disoul/Documents/muyang/src/components/BackGround	0	vim	:vim app.js
+pane	0	2	:vim	0	:#-	5	:/Users/disoul/Documents/muyang/src/components/Card	0	vim	:vim index.css
+pane	0	3	:zsh	0	:#	1	:/Users/disoul/Documents/muyang/src/components/Card	0	vim	:vim Card/Card.jsx
+pane	0	3	:zsh	0	:#	2	:/Users/disoul/Documents/muyang/src/components/Scene	0	vim	:vim Scene/Scene.jsx
+pane	0	3	:zsh	0	:#	3	:/Users/disoul/Documents/muyang	1	zsh	:
+pane	1	1	:zsh	1	:*	1	:/Users/disoul/Documents/cloud	1	zsh	:
+pane	1	2	:zsh	0	:-	1	:/Users/disoul/Documents/lmap-react	1	zsh	:
+pane	1	2	:zsh	0	:-	2	:/Users/disoul/Documents/cloud	0	zsh	:
+pane	2	1	:zsh	0	:#-	1	:/Users/disoul/Documents/ACloud	0	node	:npm  
+pane	2	1	:zsh	0	:#-	2	:/Users/disoul/Documents/ACloud	1	zsh	:
+pane	2	2	:vim	1	:*	1	:/Users/disoul/Documents/ACloud/src	1	vim	:vim html_jiejue.js
+pane	2	2	:vim	1	:*	2	:/Users/disoul/Documents/ACloud/src	0	vim	:vim html_lianxi.js
+window	0	1	1	:*	55f7,176x42,0,0{87x42,0,0,0,88x42,88,0,17}
+window	0	2	0	:#-	5855,176x42,0,0{89x42,0,0[89x29,0,0,1,89x12,0,30,9],86x42,90,0[86x2,90,0,8,86x19,90,3,15,86x19,90,23,16]}
+window	0	3	0	:#	d938,176x42,0,0[176x20,0,0,11,176x21,0,21{87x21,0,21,12,88x21,88,21,13}]
+window	1	1	1	:*	5bd7,176x42,0,0,18
+window	1	2	0	:-	172b,176x42,0,0{87x42,0,0,20,88x42,88,0,21}
+window	2	1	0	:#-	1ba0,176x42,0,0{88x42,0,0,22,87x42,89,0,23}
+window	2	2	1	:*	1ba5,176x42,0,0{88x42,0,0,24,87x42,89,0,25}
+state	2	

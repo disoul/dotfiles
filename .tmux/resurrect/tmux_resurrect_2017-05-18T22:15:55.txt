@@ -1,0 +1,4 @@
+pane	0	1	:zsh	1	:*	1	:/Users/disoul/github/spider_man	1	zsh	:
+pane	0	1	:zsh	1	:*	2	:/Users/disoul/github/spider_man	0	node	:node --harmony
+window	0	1	1	:*	e6e6,236x55,0,0{118x55,0,0,0,117x55,119,0,1}
+state	0	

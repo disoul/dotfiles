@@ -1,0 +1,11 @@
+pane	0	1	:vim	0	:-	1	:/Users/disoul/Documents/oshomework	1	vim	:vim stroage.js
+pane	0	1	:vim	0	:-	2	:/Users/disoul/Documents/oshomework	0	zsh	:
+pane	0	1	:vim	0	:-	3	:/Users/disoul/Documents/oshomework	0	zsh	:
+pane	0	2	:..uments/ACloud	1	:*	1	:/Users/disoul/Documents/ACloud	1	zsh	:
+pane	0	2	:..uments/ACloud	1	:*	2	:/Users/disoul/Documents/ACloud/src	0	vim	:vim html_lianxi.js
+pane	0	2	:..uments/ACloud	1	:*	3	:/Users/disoul/Documents/ACloud	0	zsh	:
+pane	1	1	:..uments/muyang	1	:*	1	:/Users/disoul/Documents/muyang	1	zsh	:
+window	0	1	0	:-	af11,236x61,0,0{118x61,0,0[118x31,0,0,0,118x29,0,32,2],117x61,119,0,1}
+window	0	2	1	:*	af1b,236x61,0,0{118x61,0,0[118x31,0,0,3,118x29,0,32,6],117x61,119,0,5}
+window	1	1	1	:*	b664,236x61,0,0,7
+state	1	

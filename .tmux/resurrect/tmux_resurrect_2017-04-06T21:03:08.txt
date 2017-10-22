@@ -1,0 +1,6 @@
+pane	0	1	:Vim	1	:*	1	:	0	sudo	:sudo mongod
+pane	0	1	:Vim	1	:*	2	:/Users/disoul/Documents/letslongin/app	0	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v popup.html
+pane	0	1	:Vim	1	:*	3	:/Users/disoul/Documents/letslongin/server	1	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v app.js
+pane	0	1	:Vim	1	:*	4	:/Users/disoul/Documents/letslongin/server/utils	0	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v auth.js
+window	0	1	1	:*	d3fc,236x55,0,0{59x55,0,0,0,176x55,60,0[176x6,60,0,1,176x48,60,7{88x48,60,7,2,87x48,149,7,3}]}
+state	0	

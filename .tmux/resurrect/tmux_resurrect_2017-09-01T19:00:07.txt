@@ -1,0 +1,11 @@
+pane	0	1	:zsh	1	:*	1	:/Users/disoul/Documents/facewechat/service/src/wechat_server	0	wechat_server	:../../bin/wechat_server
+pane	0	1	:zsh	1	:*	2	:/Users/disoul/Documents/facewechat/service/src/wechat_server	1	zsh	:
+pane	1	1	:Vim	0	:#-	1	:/Users/disoul/Documents/dunkey/src	0	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v src/app.js
+pane	1	1	:Vim	0	:#-	2	:/Users/disoul/Documents/dunkey	0	node	:npm  
+pane	1	1	:Vim	0	:#-	3	:/Users/disoul/Documents/dunkey/src	1	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v src/index.html
+pane	1	2	:Vim	1	:*	1	:/Users/disoul/Documents/dunkey/src/model	0	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v src/model/wechat.js
+pane	1	2	:Vim	1	:*	2	:/Users/disoul/Documents/dunkey/src	1	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v index.html
+window	0	1	1	:*	dfff,80x22,0,0{40x22,0,0,0,39x22,41,0,6}
+window	1	1	0	:#-	7177,80x22,0,0{40x22,0,0,1,39x22,41,0[39x10,41,0,2,39x11,41,11,3]}
+window	1	2	1	:*	600f,80x22,0,0{40x22,0,0,4,39x22,41,0,5}
+state	1	

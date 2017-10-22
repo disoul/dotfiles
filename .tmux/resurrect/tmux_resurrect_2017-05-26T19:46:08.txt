@@ -1,0 +1,9 @@
+pane	0	1	:zsh	1	:*	1	:/Users/disoul/homework	1	zsh	:
+pane	1	1	:node	1	:*	1	:/Users/disoul/homework/live2dWeb/src/components	0	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v components/Live2d.js
+pane	1	1	:node	1	:*	2	:/Users/disoul/homework/live2dWeb	1	node	:npm  
+pane	1	2	:zsh	0	:-	1	:/Users/disoul/homework/live2d/src	0	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v index.js
+pane	1	2	:zsh	0	:-	2	:/Users/disoul/homework/live2d	1	zsh	:
+window	0	1	1	:*	c45d,236x55,0,0,0
+window	1	1	1	:*	eb6b,236x56,0,0{118x56,0,0,3,117x56,119,0,4}
+window	1	2	0	:-	6b70,236x56,0,0{118x56,0,0,6,117x56,119,0,7}
+state	1	

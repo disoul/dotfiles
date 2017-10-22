@@ -1,0 +1,24 @@
+pane	0	1	:zsh	0	:#-	1	:/Users/disoul/Documents/web/chengshi/service	0	zsh	:
+pane	0	1	:zsh	0	:#-	2	:/Users/disoul/github/database/config	0	vim	:vim config/pg.js
+pane	0	1	:zsh	0	:#-	3	:/Users/disoul/Documents/web/chengshi/static	1	zsh	:
+pane	0	2	:zsh	1	:*	1	:/Users/disoul/Documents/web/chengshi/static/src/routes/home	0	vim	:vim static/src/routes/home/initState.js
+pane	0	2	:zsh	1	:*	2	:/Users/disoul/Documents/web/chengshi	1	zsh	:
+pane	0	2	:zsh	1	:*	3	:/Users/disoul/Documents/web/chengshi/static/src/routes/home/components	0	vim	:vim Header.jsx
+pane	1	1	:zsh	1	:*	1	:/Users/disoul/github/database/app/node_modules/.0.8.9@fbjs/lib	1	zsh	:
+pane	1	1	:zsh	1	:*	2	:/Users/disoul/github/database/app	0	node	:npm  
+pane	1	1	:zsh	1	:*	3	:/Users/disoul/github/database/app	0	node	:node --harmony
+pane	1	2	:zsh	0	:#-	1	:/Users/disoul/github/database/app/src/components	1	zsh	:
+pane	1	2	:zsh	0	:#-	2	:/Users/disoul/github/database/app/src/container	0	vim	:vim container/Estate.jsx
+pane	1	2	:zsh	0	:#-	3	:/Users/disoul/Documents/muyang/src/components	0	vim	:vim components/App.jsx
+pane	2	1	:zsh	1	:*	1	:/Users/disoul/Documents/ann	1	zsh	:
+pane	2	1	:zsh	1	:*	2	:/Users/disoul/Documents/ann	0	zsh	:
+pane	2	2	:zsh	0	:#-	1	:/Users/disoul/Documents/ann	1	zsh	:
+pane	3	1	:vim	1	:*	1	:/Users/disoul/.ssh	1	vim	:vim .ssh/config
+window	0	1	0	:#-	99fc,176x42,0,0{88x42,0,0[88x20,0,0,0,88x21,0,21,3],87x42,89,0,2}
+window	0	2	1	:*	066e,176x42,0,0{88x42,0,0[88x17,0,0,6,88x24,0,18,8],87x42,89,0,7}
+window	1	1	1	:*	e53a,176x42,0,0{91x42,0,0,9,84x42,92,0[84x29,92,0,10,84x12,92,30,12]}
+window	1	2	0	:#-	7bad,176x42,0,0{91x42,0,0,11,84x42,92,0[84x23,92,0,13,84x18,92,24,14]}
+window	2	1	1	:*	5ba6,176x42,0,0{88x42,0,0,15,87x42,89,0,16}
+window	2	2	0	:#-	5bd6,176x42,0,0,17
+window	3	1	1	:*	5bd7,176x42,0,0,18
+state	3	

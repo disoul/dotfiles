@@ -1,0 +1,4 @@
+pane	0	1	:node	1	:*	1	:/Users/disoul/Documents/web/chengshi/service	1	node	:node ./bin/www -s rds
+pane	0	1	:node	1	:*	2	:/Users/disoul/Documents/web/chengshi/static	0	node	:npm  
+window	0	1	1	:*	5ffd,80x22,0,0{40x22,0,0,0,39x22,41,0,1}
+state	0	

@@ -1,0 +1,7 @@
+pane	0	1	:node	0	:#-	1	:/Users/disoul/Documents/muyang	1	node	:npm  
+pane	0	2	:vim	1	:*	1	:/Users/disoul/Documents/muyang/src/components/Scene	1	vim	:vim Scene.jsx
+pane	0	2	:vim	1	:*	2	:/Users/disoul/Documents/muyang/src/store	0	vim	:vim store/index.js
+pane	0	2	:vim	1	:*	3	:/Users/disoul/Documents/muyang/src/reducers	0	vim	:vim scene.js
+window	0	1	0	:#-	d45d,236x59,0,0,0
+window	0	2	1	:*	a48b,236x59,0,0{117x59,0,0,1,118x59,118,0[118x29,118,0,2,118x29,118,30,3]}
+state	0	

@@ -1,0 +1,24 @@
+pane	0	1	:node	0	:-	1	:/Users/disoul/Documents/muyang	1	node	:npm  
+pane	0	1	:node	0	:-	2	:/Users/disoul/Documents/muyang	0	node	:npm   
+pane	0	2	:vim	1	:*	1	:/Users/disoul/Documents/muyang/node_modules/.1.0.22@zcontrol	0	zsh	:
+pane	0	2	:vim	1	:*	2	:/Users/disoul/Documents/muyang/server/models	1	vim	:vim index.js
+pane	0	2	:vim	1	:*	3	:/Users/disoul/Documents/muyang/configApp/components/RuleContent	0	vim	:vim RuleContent.jsx
+pane	0	2	:vim	1	:*	4	:/Users/disoul/Documents/bilibili-mifans/model	0	vim	:vim model.js
+pane	0	3	:zsh	0	:	1	:/Users/disoul	1	zsh	:
+pane	1	1	:zsh	0	:#-	1	:/Users/disoul/github/database	1	zsh	:
+pane	1	1	:zsh	0	:#-	2	:/Users/disoul/github/database/utils	0	vim	:vim utils/database.js
+pane	1	1	:zsh	0	:#-	3	:/Users/disoul/github/database/utils	0	vim	:vim xlsx.js
+pane	1	2	:zsh	1	:*	1	:/Users/disoul/github/database	1	zsh	:
+pane	2	1	:vim	0	:#-	1	:/Users/disoul/Documents/dunkey/src/model	1	vim	:vim request.js
+pane	2	1	:vim	0	:#-	2	:/Users/disoul/Documents/dunkey/lib	0	vim	:vim hashcash_worker.js
+pane	2	1	:vim	0	:#-	3	:/Users/disoul/Documents/dunkey/server	0	vim	:vim server.js
+pane	2	2	:zsh	1	:*	1	:/Users/disoul/Documents/dunkey	1	zsh	:
+pane	2	2	:zsh	1	:*	2	:/Users/disoul/Documents/dunkey/server	0	node	:node --harmony server.js
+window	0	1	0	:-	b489,236x58,0,0{120x58,0,0,0,115x58,121,0,4}
+window	0	2	1	:*	ffa7,236x58,0,0{120x58,0,0[120x22,0,0,1,120x35,0,23,3],115x58,121,0[115x28,121,0,2,115x29,121,29,9]}
+window	0	3	0	:	d062,236x58,0,0,5
+window	1	1	0	:#-	1c7f,236x58,0,0{118x58,0,0,11,117x58,119,0[117x26,119,0,12,117x31,119,27,14]}
+window	1	2	1	:*	6862,236x58,0,0,13
+window	2	1	0	:#-	291c,236x58,0,0{118x58,0,0,15,117x58,119,0[117x29,119,0,16,117x28,119,30,17]}
+window	2	2	1	:*	83d1,236x58,0,0{118x58,0,0,18,117x58,119,0,19}
+state	0	

@@ -1,0 +1,7 @@
+pane	0	1	:../server/mongo	1	:*	1	:/Users/disoul/Documents/Ryou/server/mongo	1	zsh	:
+pane	1	1	:man	1	:*	1	:/Users/disoul/Documents/Ryou/cli	1	vim	:vim init-client.js
+pane	1	1	:man	1	:*	2	:/Users/disoul	0	man	:emacs
+man ssh
+window	0	1	1	:*	c71e,201x47,0,0,1
+window	1	1	1	:*	7cf5,201x47,0,0{100x47,0,0,5,100x47,101,0,4}
+state	1	

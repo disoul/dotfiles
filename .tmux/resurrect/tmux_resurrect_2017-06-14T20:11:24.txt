@@ -1,0 +1,4 @@
+pane	0	1	:node	1	:*	1	:/Users/disoul/github/spider_man	1	node	:node --harmony task -n mobike_car_fast_new --clean
+pane	0	1	:node	1	:*	2	:/Users/disoul/github/spider_man/task/url/model	0	node	:node --harmony
+window	0	1	1	:*	e6e6,236x55,0,0{118x55,0,0,0,117x55,119,0,1}
+state	0	

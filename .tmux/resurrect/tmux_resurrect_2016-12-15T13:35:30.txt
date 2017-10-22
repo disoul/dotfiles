@@ -1,0 +1,7 @@
+pane	0	1	:npm	1	:*	1	:/Users/disoul/Documents/exchange/exchange	1	node	:npm  
+pane	1	1	:../exchange/src	1	:*	1	:/Users/disoul/Documents/exchange/exchange/src	1	zsh	:
+pane	2	1	:..engshi/static	1	:*	1	:/Users/disoul/Documents/web/chengshi/static	1	zsh	:
+window	0	1	1	:*	c33d,176x45,0,0,0
+window	1	1	1	:*	c33f,176x45,0,0,2
+window	2	1	1	:*	c342,176x45,0,0,5
+state	0	

@@ -1,0 +1,7 @@
+pane	0	1	:vim	1	:*	1	:/Users/disoul/Documents/dunkey/src/model	0	vim	:vim src/model/analysisHandle.js
+pane	0	1	:vim	1	:*	2	:/Users/disoul/Documents/dunkey/src/model	1	vim	:vim request.js
+pane	1	1	:..s/tzmap/tzmap	1	:*	1	:/Users/disoul/Documents/tzmap/tzmap	1	zsh	:
+pane	1	1	:..s/tzmap/tzmap	1	:*	2	:/Users/disoul/Documents/dunkey	0	vim	:vim webpack.config.js
+window	0	1	1	:*	fcee,201x47,0,0{100x47,0,0,0,100x47,101,0,1}
+window	1	1	1	:*	7cf3,201x47,0,0{100x47,0,0,3,100x47,101,0,4}
+state	0	

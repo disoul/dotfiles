@@ -1,0 +1,6 @@
+pane	0	1	:vim	1	:*	1	:/Users/disoul/Documents/wscontrol	0	node	:npm  
+pane	0	1	:vim	1	:*	2	:/Users/disoul/Documents/fuko	1	vim	:vim fuko.js
+pane	1	1	:..rc/components	1	:*	1	:/Users/disoul/Documents/wscontrol/src/components	1	zsh	:
+window	0	1	1	:*	fcee,201x47,0,0{100x47,0,0,0,100x47,101,0,1}
+window	1	1	1	:*	c71f,201x47,0,0,2
+state	0	

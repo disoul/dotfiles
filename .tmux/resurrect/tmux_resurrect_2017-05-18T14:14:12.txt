@@ -1,0 +1,4 @@
+pane	0	1	:node	1	:*	1	:/Users/disoul/github/spider_man	0	node	:node --harmony task -n ofo_car --clean
+pane	0	1	:node	1	:*	2	:/Users/disoul/github/spider_man	1	node	:node --harmony
+window	0	1	1	:*	e826,176x45,0,0{88x45,0,0,0,87x45,89,0,1}
+state	0	

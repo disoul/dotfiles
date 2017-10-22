@@ -1,0 +1,35 @@
+pane	0	1	:zsh	1	:*	1	:/Users/disoul/Documents/ann	1	zsh	:
+pane	0	1	:zsh	1	:*	2	:/Users/disoul/Documents/ann/src/containers	0	vim	:vim Ann.jsx
+pane	0	2	:zsh	0	:-	1	:/Users/disoul/Documents/ACloud/src	0	vim	:vim html_lianxi.js
+pane	0	2	:zsh	0	:-	2	:/Users/disoul/Documents/muyang/server	0	vim	:vim server/app.js
+pane	0	2	:zsh	0	:-	3	:/Users/disoul/Documents/ann	1	zsh	:
+pane	0	2	:zsh	0	:-	4	:/Users/disoul/Documents/ann/src/containers/ContactPage/locales	0	vim	:vim locales/index.js
+pane	1	1	:vim	1	:*	1	:/Users/disoul/Documents/GridBoard/src/components/Plane	0	vim	:vim GridContainer.jsx
+pane	1	1	:vim	1	:*	2	:/Users/disoul/Documents/GridBoard/src/utils	1	vim	:vim index.js
+pane	1	1	:vim	1	:*	3	:/Users/disoul	0	zsh	:
+pane	2	1	:zsh	1	:*	1	:/Users/disoul/Documents/dunkey	1	zsh	:
+pane	2	1	:zsh	1	:*	2	:/Users/disoul/Documents/dunkey	0	zsh	:
+pane	3	1	:vim	1	:*	1	:/Users/disoul/Documents/GridBoard/src/components/Plane	0	vim	:vim Plane.jsx
+pane	3	1	:vim	1	:*	2	:/Users/disoul/Documents/GridBoard/src/utils	0	vim	:vim utils/index.js
+pane	3	1	:vim	1	:*	3	:/Users/disoul/Documents/GridBoard/src	1	vim	:vim app.js
+pane	3	2	:node	0	:#-	1	:/Users/disoul/Documents/GridBoard	1	node	:node --harmony fuse.config.js
+pane	4	1	:vim	1	:*	1	:/Users/disoul/github/database/model/schema	1	vim	:vim district_lianjia.js
+pane	4	1	:vim	1	:*	2	:/Users/disoul/github/database/server/routes	0	vim	:vim index.js
+pane	4	1	:vim	1	:*	3	:/Users/disoul/github/database/model/column/group	0	vim	:vim community.js
+pane	4	2	:node	0	:#-	1	:/Users/disoul/github/database/app	0	zsh	:
+pane	4	2	:node	0	:#-	2	:/Users/disoul/github/database/app	1	node	:npm  
+pane	4	2	:node	0	:#-	3	:/Users/disoul/github/database/app/src/container/ModelPage	0	vim	:vim container/ModelPage/index.js
+pane	4	3	:vim	0	:#	1	:/Users/disoul/github/database/app/src/sagas	1	vim	:vim sagas/upload.js
+pane	4	3	:vim	0	:#	2	:/Users/disoul/github/database/app/src/reducers	0	vim	:vim reducers/upload.js
+pane	4	3	:vim	0	:#	3	:/Users/disoul/github/database/app/src/utils	0	vim	:vim utils/api.js
+pane	4	3	:vim	0	:#	4	:/Users/disoul/github/database/app/src/container/ModelPage	0	vim	:vim container/ModelPage/index.js
+window	0	1	1	:*	4368,234x58,0,0{116x58,0,0,0,117x58,117,0,1}
+window	0	2	0	:-	b416,234x58,0,0{116x58,0,0[116x29,0,0,2,116x28,0,30,16],117x58,117,0[117x29,117,0,5,117x28,117,30,18]}
+window	1	1	1	:*	3a27,236x58,0,0{118x58,0,0,3,117x58,119,0[117x29,119,0,4,117x28,119,30,7]}
+window	2	1	1	:*	a08f,178x42,0,0{86x42,0,0,8,91x42,87,0,9}
+window	3	1	1	:*	9e47,178x42,0,0{88x42,0,0[88x23,0,0,10,88x18,0,24,13],89x42,89,0,11}
+window	3	2	0	:#-	5c58,178x42,0,0,19
+window	4	1	1	:*	5ae0,178x42,0,0{90x42,0,0,20,87x42,91,0[87x21,91,0,21,87x20,91,22,34]}
+window	4	2	0	:#-	0047,178x42,0,0{90x42,0,0[90x21,0,0,22,90x20,0,22,28],87x42,91,0,27}
+window	4	3	0	:#	f7bb,178x42,0,0{90x42,0,0[90x24,0,0,23,90x17,0,25,30],87x42,91,0[87x21,91,0,29,87x20,91,22,31]}
+state	4	

@@ -1,0 +1,6 @@
+pane	0	1	:admin@iZbp1ayj54m6qr0no8jumdZ:~/za-anlink/webapps/public	1	:*	1	:/Users/disoul/Documents	1	ssh	:ssh admin@10.139.100.51
+pane	1	1	:vim	1	:*	1	:/Users/disoul/Documents/dunkey/src	0	vim	:vim src/index.html
+pane	1	1	:vim	1	:*	2	:/Users/disoul/Documents/dunkey/src/model	1	vim	:vim request.js
+window	0	1	1	:*	c71d,201x47,0,0,0
+window	1	1	1	:*	7cf0,201x47,0,0{100x47,0,0,1,100x47,101,0,2}
+state	1	

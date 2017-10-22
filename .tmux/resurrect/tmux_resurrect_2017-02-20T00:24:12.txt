@@ -1,0 +1,8 @@
+pane	0	1	:vim	1	:*	1	:/Users/disoul/Documents/muyang	0	node	:npm  
+pane	0	1	:vim	1	:*	2	:/Users/disoul/Documents/muyang	1	vim	:vim package.json
+pane	0	2	:zsh	0	:-	1	:/Users/disoul/Documents/muyang/configApp/components/PageContent	0	vim	:vim PageContent/PageContent.jsx
+pane	0	2	:zsh	0	:-	2	:/Users/disoul/Documents/muyang/configApp/components/MuyangContainer	0	vim	:vim MuyangContainer/MuyangContainer.jsx
+pane	0	2	:zsh	0	:-	3	:/Users/disoul/Documents/muyang	1	zsh	:
+window	0	1	1	:*	374d,178x46,0,0{89x46,0,0,0,88x46,90,0,4}
+window	0	2	0	:-	b7f0,178x46,0,0{89x46,0,0[89x23,0,0,1,89x22,0,24,3],88x46,90,0,2}
+state	0	

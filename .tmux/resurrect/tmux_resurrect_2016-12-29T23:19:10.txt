@@ -1,0 +1,4 @@
+pane	0	1	:node	1	:*	1	:/Users/disoul/Documents/web/chengshi/static/src/redux/dashboard/actions	1	vim	:vim api.js
+pane	0	1	:node	1	:*	2	:/Users/disoul/Documents/web/chengshi/static/src/redux/dashboard/utils	0	node	:node --harmony
+window	0	1	1	:*	f92a,176x46,0,0{88x46,0,0,0,87x46,89,0,1}
+state	0	

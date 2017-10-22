@@ -1,0 +1,7 @@
+pane	0	1	:zsh	0	:#-	1	:/Users/disoul/Documents/web/particle	0	node	:npm  
+pane	0	1	:zsh	0	:#-	2	:/Users/disoul/Documents/web/particle	1	zsh	:
+pane	0	2	:vim	1	:*	1	:/Users/disoul/Documents/web/particle/src	1	vim	:vim flow.js
+pane	0	2	:vim	1	:*	2	:/Users/disoul/Documents/web/particle/src	0	vim	:vim main.js
+window	0	1	0	:#-	6827,176x45,0,0{88x45,0,0,0,87x45,89,0,2}
+window	0	2	1	:*	e82b,176x45,0,0{88x45,0,0,1,87x45,89,0,3}
+state	0	

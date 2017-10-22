@@ -1,0 +1,7 @@
+pane	0	1	:node	0	:#-	1	:/Users/disoul/Documents/zatlas/build/libs/eul	0	node	:npm  
+pane	0	1	:node	0	:#-	2	:/Users/disoul/Documents/zatlas	1	node	:npm  
+pane	0	2	:zsh	1	:*	1	:/Users/disoul/Documents/zatlas/src/libs/lmap-react/components/Areas	0	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v Areas/Areas.jsx
+pane	0	2	:zsh	1	:*	2	:/Users/disoul/Documents/zatlas/src/utils	1	zsh	:
+window	0	1	0	:#-	33f7,236x56,0,0{121x56,0,0,0,114x56,122,0,1}
+window	0	2	1	:*	6b6a,236x56,0,0{118x56,0,0,2,117x56,119,0,3}
+state	0	

@@ -1,0 +1,11 @@
+pane	0	1	:node	0	:#-	1	:/Users/disoul/Documents/zatlas	1	node	:npm  
+pane	0	1	:node	0	:#-	2	:/Users/disoul/Documents/zatlas/build/libs/eul	0	node	:npm  
+pane	0	2	:Vim	1	:*	1	:/Users/disoul/Documents/zazatlasweb	0	node	:node --harmony
+pane	0	2	:Vim	1	:*	2	:/Users/disoul/Documents/zatlas/src/models	1	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v manager.js
+pane	0	2	:Vim	1	:*	3	:/Users/disoul/Documents/zatlas/src/routes/PageScene	0	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v index.js
+pane	1	1	:Vim	1	:*	1	:/Users/disoul/github/spider_man/task/tasks/lianjia/house_lianjia_view	1	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v task/tasks/lianjia/house_lianjia_view/config.js
+pane	1	1	:Vim	1	:*	2	:/Users/disoul/lianjia	0	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v lianjia/lianjia.js
+window	0	1	0	:#-	8a34,236x60,0,0{117x60,0,0,0,118x60,118,0,1}
+window	0	2	1	:*	5d66,236x60,0,0{117x60,0,0[117x30,0,0,2,117x29,0,31,4],118x60,118,0,3}
+window	1	1	1	:*	12ac,236x60,0,0{118x60,0,0,5,117x60,119,0,6}
+state	0	

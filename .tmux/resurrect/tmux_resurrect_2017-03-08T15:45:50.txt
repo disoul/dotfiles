@@ -1,0 +1,11 @@
+pane	0	1	:vim	0	:#-	1	:/Users/disoul/Documents/ann	0	node	:npm  
+pane	0	1	:vim	0	:#-	2	:/Users/disoul/.ssh	1	vim	:vim .ssh/config
+pane	0	2	:vim	1	:*	1	:/Users/disoul/Documents/ann/src/components/Side	0	vim	:vim Side/Side.jsx
+pane	0	2	:vim	1	:*	2	:/Users/disoul/Documents/ann/src/components/Side	0	vim	:vim index.css
+pane	0	2	:vim	1	:*	3	:/Users/disoul/Documents/ann/src/containers/SolutionPage/locales	1	vim	:vim locales/index.js
+pane	1	1	:vim	1	:*	1	:/Users/disoul/Documents/GridBoard/src/components/GridContainer	1	vim	:vim GridContainer.jsx
+pane	1	1	:vim	1	:*	2	:/Users/disoul	0	vim	:vim .vimrc
+window	0	1	0	:#-	7468,236x58,0,0{118x58,0,0,0,117x58,119,0,1}
+window	0	2	1	:*	2e30,236x58,0,0{118x58,0,0[118x29,0,0,2,118x28,0,30,6],117x58,119,0,5}
+window	1	1	1	:*	f46c,236x58,0,0{118x58,0,0,3,117x58,119,0,4}
+state	1	

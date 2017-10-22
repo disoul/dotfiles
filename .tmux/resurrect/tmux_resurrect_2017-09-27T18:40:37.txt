@@ -1,0 +1,6 @@
+pane	0	1	:node	0	:#-	1	:/Users/disoul/Documents/zatlas-home	1	node	:npm  
+pane	0	2	:node	1	:*	1	:/Users/disoul/Documents/zatlas-home	0	zsh	:
+pane	0	2	:node	1	:*	2	:/Users/disoul/Documents/zatlas-home	1	node	:npm  
+window	0	1	0	:#-	c05d,236x54,0,0,0
+window	0	2	1	:*	e267,236x54,0,0{118x54,0,0,1,117x54,119,0,2}
+state	0	

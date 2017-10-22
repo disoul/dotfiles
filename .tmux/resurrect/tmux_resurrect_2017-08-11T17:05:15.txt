@@ -1,0 +1,7 @@
+pane	0	1	:node	0	:#-	1	:/Users/disoul/Documents/zatlas	1	node	:npm  
+pane	0	1	:node	0	:#-	2	:/Users/disoul/Documents/zatlas/build/libs/eul	0	node	:npm  
+pane	0	2	:zsh	1	:*	1	:/Users/disoul/Documents/zatlas/src/routes	1	zsh	:
+pane	0	2	:zsh	1	:*	2	:/Users/disoul/Documents/zatlas/node_modules/_material-ui@0.17.4@material-ui/List	0	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v ListItem.js
+window	0	1	0	:#-	6847,177x45,0,0{88x45,0,0,0,88x45,89,0,1}
+window	0	2	1	:*	e854,177x45,0,0{88x45,0,0,3,88x45,89,0,4}
+state	0	

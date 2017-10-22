@@ -1,0 +1,13 @@
+pane	0	1	:Vim	1	:*	1	:/Users/disoul/Documents/zgrid/app	0	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v constants.js
+pane	0	1	:Vim	1	:*	2	:/Users/disoul/Documents/zgrid/app	0	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v ../routes.js
+pane	0	1	:Vim	1	:*	3	:/Users/disoul/Documents/zatlas/src	1	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v router.js
+pane	0	2	:zsh	0	:#-	1	:/Users/disoul/Documents/zatlas	0	node	:npm  
+pane	0	2	:zsh	0	:#-	2	:/Users/disoul/Documents/zatlas	1	zsh	:
+pane	1	1	:node	0	:#-	1	:/Users/disoul/github/database	0	node	:node /Users/disoul/.nvm/versions/node/v7.6.0/bin/nodemon ./server/bin/www
+pane	1	1	:node	0	:#-	2	:/Users/disoul/github/database/app	1	node	:npm  
+pane	1	2	:Vim	1	:*	1	:/Users/disoul/github/database/config	1	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v config/pg.js
+window	0	1	1	:*	97c4,236x55,0,0{118x55,0,0[118x40,0,0,0,118x14,0,41,3],117x55,119,0,1}
+window	0	2	0	:#-	e6ef,236x55,0,0{118x55,0,0,5,117x55,119,0,9}
+window	1	1	0	:#-	e6ef,236x55,0,0{118x55,0,0,6,117x55,119,0,7}
+window	1	2	1	:*	c465,236x55,0,0,8
+state	0	

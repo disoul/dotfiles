@@ -1,0 +1,30 @@
+pane	0	1	:Vim	0	:-	1	:/Users/disoul/Documents/zatlas-home/src/models	1	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v models/user.js
+pane	0	1	:Vim	0	:-	2	:/Users/disoul/Documents/zatlas-home/src/models	0	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v models/user.js
+pane	0	2	:zsh	1	:*	1	:/Users/disoul/Documents/zatlas-home	1	zsh	:
+pane	1	1	:Vim	1	:*	1	:/Users/disoul/Documents/videodetect/service/src/wechat_server	1	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v main.go
+pane	2	1	:zsh	1	:*	1	:/Users/disoul/Documents/videodetect/service/src/wechat_server	1	zsh	:
+pane	2	1	:zsh	1	:*	2	:/Users/disoul/Documents/videodetect/service/src/wechat_server	0	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v main.go
+pane	3	1	:Vim	1	:*	1	:/Users/disoul/Documents/videodetect/testpage	1	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v testpage/index.js
+pane	3	1	:Vim	1	:*	2	:/Users/disoul/Documents/videodetect/testpage	0	zsh	:
+pane	4	1	:zsh	1	:*	1	:/Users/disoul/Documents/zatlas	1	zsh	:
+pane	4	1	:zsh	1	:*	2	:/Users/disoul/Documents/zatlas/build/libs/eul	0	node	:npm  
+pane	4	2	:zsh	0	:-	1	:/Users/disoul/Documents/zatlas	1	zsh	:
+pane	4	2	:zsh	0	:-	2	:/Users/disoul/Documents/zatlas/src/routes/MainPage	0	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v MainPage/index.jsx
+pane	5	1	:node	0	:#-	1	:/Users/disoul/Documents/zatlas-home	1	node	:npm  
+pane	5	1	:node	0	:#-	2	:/Users/disoul/Documents/zatlas-home	0	zsh	:
+pane	5	2	:Vim	1	:*	1	:/Users/disoul/Documents/zatlas-home/src/routes/HomePage	1	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v src/routes/HomePage/index.js
+pane	6	1	:Vim	1	:*	1	:/Users/disoul/Documents/videodetect/testpage	1	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v testpage/index.js
+pane	6	1	:Vim	1	:*	2	:/Users/disoul/Documents/videodetect/testpage	0	node	:node /Users/disoul/.nvm/versions/node/v7.10.0/bin/anywhere -p 7777
+pane	6	1	:Vim	1	:*	3	:/Users/disoul/Documents/videodetect/service/src/wechat_server	0	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v src/wechat_server/main.go
+pane	6	1	:Vim	1	:*	4	:/Users/disoul/Documents/videodetect/service/src/wechat_server	0	wechat_server	:../../bin/wechat_server
+window	0	1	0	:-	129d,236x60,0,0{118x60,0,0,0,117x60,119,0,2}
+window	0	2	1	:*	b25e,236x60,0,0,1
+window	1	1	1	:*	c440,178x45,0,0,3
+window	2	1	1	:*	92aa,236x60,0,0{118x60,0,0,4,117x60,119,0,5}
+window	3	1	1	:*	92ad,236x60,0,0{118x60,0,0,6,117x60,119,0,7}
+window	4	1	1	:*	92a8,236x60,0,0{118x60,0,0,8,117x60,119,0,9}
+window	4	2	0	:-	8a68,236x60,0,0{118x60,0,0,10,117x60,119,0,11}
+window	5	1	0	:#-	abaa,236x61,0,0{118x61,0,0,12,117x61,119,0,13}
+window	5	2	1	:*	5b63,236x61,0,0,14
+window	6	1	1	:*	1b1c,236x61,0,0{115x61,0,0,15,120x61,116,0[120x4,116,0,16,120x28,116,5,17,120x27,116,34,18]}
+state	6	

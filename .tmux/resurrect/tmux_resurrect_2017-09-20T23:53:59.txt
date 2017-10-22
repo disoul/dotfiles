@@ -1,0 +1,12 @@
+pane	0	1	:zsh	1	:*	1	:/Users/disoul/Documents/zatlas	0	zsh	:
+pane	0	1	:zsh	1	:*	2	:/Users/disoul/Documents/zatlas/build/libs/eul	1	zsh	:
+pane	0	2	:Vim	0	:-	1	:/Users/disoul/Documents/zatlas/src/models	1	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v models/options.js
+pane	0	2	:Vim	0	:-	2	:/Users/disoul/Documents/zatlas/src/libs/lmap-react/components/ScatterKonvaPlain	0	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v datas.json
+pane	0	2	:Vim	0	:-	3	:/Users/disoul/Documents/zatlas/src/routes/public/Map	0	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v Map/index.js
+pane	1	1	:zsh	1	:*	1	:/Users/disoul	1	zsh	:
+pane	2	1	:zsh	1	:*	1	:/Users/disoul/github/chengshi3/static	1	zsh	:
+window	0	1	1	:*	6b67,236x56,0,0{118x56,0,0,0,117x56,119,0,1}
+window	0	2	0	:-	9dbe,236x56,0,0{118x56,0,0,2,117x56,119,0[117x28,119,0,3,117x27,119,29,4]}
+window	1	1	1	:*	b262,80x24,0,0,5
+window	2	1	1	:*	c863,236x56,0,0,6
+state	2	

@@ -1,0 +1,52 @@
+pane	0	1	:zsh	1	:*	1	:/Users/disoul/Documents/ann	1	zsh	:
+pane	0	1	:zsh	1	:*	2	:/Users/disoul/Documents/ann/src/containers	0	vim	:vim Ann.jsx
+pane	0	2	:zsh	0	:-	1	:/Users/disoul/Documents/ACloud/src	0	vim	:vim html_lianxi.js
+pane	0	2	:zsh	0	:-	2	:/Users/disoul/Documents/muyang/server	0	vim	:vim server/app.js
+pane	0	2	:zsh	0	:-	3	:/Users/disoul/Documents/ann	1	zsh	:
+pane	0	2	:zsh	0	:-	4	:/Users/disoul/Documents/ann/src/containers/ContactPage/locales	0	vim	:vim locales/index.js
+pane	1	1	:vim	1	:*	1	:/Users/disoul/Documents/GridBoard/src/components/Plane	0	vim	:vim GridContainer.jsx
+pane	1	1	:vim	1	:*	2	:/Users/disoul/Documents/GridBoard/src/utils	1	vim	:vim index.js
+pane	1	1	:vim	1	:*	3	:/Users/disoul	0	zsh	:
+pane	2	1	:vim	1	:*	1	:/Users/disoul/github/database/task	0	vim	:vim task.js
+pane	2	1	:vim	1	:*	2	:/Users/disoul/github/database/task	1	vim	:vim uploadTask.js
+pane	2	1	:vim	1	:*	3	:/Users/disoul/github/database/task	0	vim	:vim taskMananger.js
+pane	2	1	:vim	1	:*	4	:/Users/disoul/github/database/utils	0	vim	:vim utils/xlsx.js
+pane	2	2	:zsh	0	:-	1	:/Users/disoul/github/database/model	1	zsh	:
+pane	2	2	:zsh	0	:-	2	:/Users/disoul/github/database	0	node	:node ./server/bin/www
+pane	3	1	:vim	1	:*	1	:/Users/disoul/Documents/GridBoard/src/components/Plane	1	vim	:vim style.js
+pane	3	1	:vim	1	:*	2	:/Users/disoul/Documents/GridBoard/src/components/Plane	0	vim	:vim Plane
+pane	3	2	:node	0	:#-	1	:/Users/disoul/Documents/GridBoard	1	node	:node --harmony fuse.config.js
+pane	3	2	:node	0	:#-	2	:/Users/disoul/Documents/GridBoard	0	zsh	:
+pane	4	1	:zsh	1	:*	1	:/Users/disoul/github/database/app/src/utils	0	vim	:vim src/utils/api.js
+pane	4	1	:zsh	1	:*	2	:/Users/disoul/github/database	1	zsh	:
+pane	4	1	:zsh	1	:*	3	:/Users/disoul/Documents/ann	0	vim	:vim fuse.config.js
+pane	4	1	:zsh	1	:*	4	:/Users/disoul/github/database/utils	0	vim	:vim utils/xlsx.js
+pane	4	2	:zsh	0	:#-	1	:/Users/disoul/github/database/app	0	zsh	:
+pane	4	2	:zsh	0	:#-	2	:/Users/disoul/github/database/app	1	zsh	:
+pane	4	2	:zsh	0	:#-	3	:/Users/disoul/github/database/app/src/container/ModelPage	0	vim	:vim container/ModelPage/index.js
+pane	4	3	:vim	0	:	1	:/Users/disoul/github/database/app/src/sagas	1	vim	:vim sagas/upload.js
+pane	4	3	:vim	0	:	2	:/Users/disoul/github/database/app/src/reducers	0	vim	:vim reducers/upload.js
+pane	4	3	:vim	0	:	3	:/Users/disoul/github/database/app/src/utils	0	vim	:vim utils/api.js
+pane	4	3	:vim	0	:	4	:/Users/disoul/github/database/app/src/container/ModelPage	0	vim	:vim container/ModelPage/index.js
+pane	5	1	:zsh	1	:*	1	:/Users/disoul/Documents/ann/src/containers/HomePage/components/Slider	0	vim	:vim Slider.jsx
+pane	5	1	:zsh	1	:*	2	:/Users/disoul/Documents/ann/src	0	node	:node --harmony
+pane	5	1	:zsh	1	:*	3	:/Users/disoul/Documents/ann/src	0	vim	:vim app.js
+pane	5	1	:zsh	1	:*	4	:/Users/disoul/Documents/ann	1	zsh	:
+pane	6	1	:vim	1	:*	1	:/Users/disoul/Documents/ann	1	vim	:vim package.json
+pane	6	1	:vim	1	:*	2	:/Users/disoul/Documents/ann	0	zsh	:
+pane	7	1	:vim	1	:*	1	:/Users/disoul/Documents/muyang/src/components/Card	0	vim	:vim components/Card/Card.jsx
+pane	7	1	:vim	1	:*	2	:/Users/disoul/Documents/muyang/src/scenes/medical/DiseaseDetailScene	1	vim	:vim scenes/medical/DiseaseDetailScene/index.css
+window	0	1	1	:*	4368,234x58,0,0{116x58,0,0,0,117x58,117,0,1}
+window	0	2	0	:-	b416,234x58,0,0{116x58,0,0[116x29,0,0,2,116x28,0,30,16],117x58,117,0[117x29,117,0,5,117x28,117,30,18]}
+window	1	1	1	:*	3a27,236x58,0,0{118x58,0,0,3,117x58,119,0[117x29,119,0,4,117x28,119,30,7]}
+window	2	1	1	:*	661a,236x58,0,0{118x58,0,0[118x29,0,0,9,118x28,0,30,56],117x58,119,0[117x29,119,0,55,117x28,119,30,57]}
+window	2	2	0	:-	03d0,236x58,0,0{118x58,0,0,45,117x58,119,0,46}
+window	3	1	1	:*	ffb2,236x58,0,0{117x58,0,0,13,118x58,118,0,11}
+window	3	2	0	:#-	83d0,236x58,0,0{118x58,0,0,19,117x58,119,0,35}
+window	4	1	1	:*	c5a9,176x42,0,0{89x42,0,0[89x21,0,0,20,89x20,0,22,42],86x42,90,0[86x21,90,0,21,86x20,90,22,34]}
+window	4	2	0	:#-	256a,176x42,0,0{89x42,0,0[89x21,0,0,22,89x20,0,22,28],86x42,90,0,27}
+window	4	3	0	:	d6ec,176x42,0,0{89x42,0,0[89x24,0,0,23,89x17,0,25,30],86x42,90,0[86x21,90,0,29,86x20,90,22,31]}
+window	5	1	1	:*	378d,234x58,0,0{117x58,0,0[117x29,0,0,36,117x28,0,30,38],116x58,118,0[116x29,118,0,37,116x28,118,30,41]}
+window	6	1	1	:*	f7a9,234x58,0,0{117x58,0,0,47,116x58,118,0,48}
+window	7	1	1	:*	83cc,236x58,0,0{118x58,0,0,51,117x58,119,0,52}
+state	2	

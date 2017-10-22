@@ -1,0 +1,7 @@
+pane	0	1	:..scontrol/dist	1	:*	1	:/Users/disoul/Documents/wscontrol/dist	1	zsh	:
+pane	0	1	:..scontrol/dist	1	:*	2	:/Users/disoul/Documents/fuko	0	zsh	:
+pane	1	1	:..nts/wscontrol	1	:*	1	:/Users/disoul/Documents/wscontrol	1	zsh	:
+pane	1	1	:..nts/wscontrol	1	:*	2	:/Users/disoul/Documents/wscontrol/src/components	0	vim	:vim src/components/SpecialButton.jsx
+window	0	1	1	:*	fcee,201x47,0,0{100x47,0,0,0,100x47,101,0,1}
+window	1	1	1	:*	fcf1,201x47,0,0{100x47,0,0,2,100x47,101,0,3}
+state	0	

@@ -1,0 +1,22 @@
+pane	0	1	:zsh	0	:#-	1	:/Users/disoul/Documents/web/chengshi/service	0	zsh	:
+pane	0	1	:zsh	0	:#-	2	:/Users/disoul/github/database/config	0	vim	:vim config/pg.js
+pane	0	1	:zsh	0	:#-	3	:/Users/disoul/Documents/web/chengshi/static	1	zsh	:
+pane	0	2	:zsh	1	:*	1	:/Users/disoul/Documents/web/chengshi/static/src/routes/home	0	vim	:vim static/src/routes/home/initState.js
+pane	0	2	:zsh	1	:*	2	:/Users/disoul/Documents/web/chengshi	1	zsh	:
+pane	0	2	:zsh	1	:*	3	:/Users/disoul/Documents/web/chengshi/static/src/routes/home/components	0	vim	:vim Header.jsx
+pane	1	1	:zsh	0	:#-	1	:/Users/disoul/github/database/app	1	zsh	:
+pane	1	1	:zsh	0	:#-	2	:/Users/disoul/github/database/app	0	zsh	:
+pane	1	1	:zsh	0	:#-	3	:/Users/disoul/github/database/app	0	vim	:vim webpack.config.js
+pane	1	2	:zsh	1	:*	1	:/Users/disoul/github/database/app/src/components	1	zsh	:
+pane	1	2	:zsh	1	:*	2	:/Users/disoul/github/database/app/src/container	0	vim	:vim container/Estate.jsx
+pane	1	2	:zsh	1	:*	3	:/Users/disoul/Documents/muyang/src/components	0	vim	:vim components/App.jsx
+pane	2	1	:zsh	0	:-	1	:/Users/disoul/Documents/ann	0	node	:npm  
+pane	2	1	:zsh	0	:-	2	:/Users/disoul/Documents/ann	1	zsh	:
+pane	2	2	:zsh	1	:*	1	:/Users/disoul/Documents/ann	1	zsh	:
+window	0	1	0	:#-	372a,236x58,0,0{118x58,0,0[118x28,0,0,0,118x29,0,29,3],117x58,119,0,2}
+window	0	2	1	:*	b8ba,236x58,0,0{118x58,0,0[118x25,0,0,6,118x32,0,26,8],117x58,119,0,7}
+window	1	1	0	:#-	918d,236x58,0,0{121x58,0,0,9,114x58,122,0[114x37,122,0,10,114x20,122,38,12]}
+window	1	2	1	:*	d5a2,236x58,0,0{121x58,0,0,11,114x58,122,0[114x31,122,0,13,114x26,122,32,14]}
+window	2	1	0	:-	83ce,236x58,0,0{118x58,0,0,15,117x58,119,0,16}
+window	2	2	1	:*	6866,236x58,0,0,17
+state	0	

@@ -1,0 +1,4 @@
+pane	0	1	:zsh	1	:*	1	:/Users/disoul/Documents/zatlas/release	1	zsh	:
+pane	0	1	:zsh	1	:*	2	:/Users/disoul/Documents/zazatlasweb	0	zsh	:
+window	0	1	1	:*	b74b,178x46,0,0{89x46,0,0,0,88x46,90,0,1}
+state	0	

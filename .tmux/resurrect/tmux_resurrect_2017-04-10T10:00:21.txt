@@ -1,0 +1,14 @@
+pane	0	1	:node	0	:#-	1	:/Users/disoul/github/database	0	node	:node /Users/disoul/.nvm/versions/node/v7.6.0/bin/nodemon ./server/bin/www
+pane	0	1	:node	0	:#-	2	:/Users/disoul/github/database/app	1	node	:node --harmony fuse.config.js
+pane	0	2	:zsh	1	:*	1	:/Users/disoul/github/database/app/src/container	0	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v container/App.jsx
+pane	0	2	:zsh	1	:*	2	:/Users/disoul/github/database/app/src/container/ModelPage	0	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v container/ModelPage/index.js
+pane	0	2	:zsh	1	:*	3	:/Users/disoul/github/database/app	1	zsh	:
+pane	1	1	:zsh	1	:*	1	:/Users/disoul/Documents/letslongin	1	zsh	:
+pane	1	1	:zsh	1	:*	2	:/Users/disoul/Documents/letslongin/server	0	node	:node --harmony app.js
+pane	1	1	:zsh	1	:*	3	:/Users/disoul/Documents/letslongin/app/script/popup	0	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v app/script/popup/index.js
+pane	1	2	:sudo	0	:#-	1	:	1	sudo	:sudo mongod
+window	0	1	0	:#-	e826,176x45,0,0{88x45,0,0,0,87x45,89,0,1}
+window	0	2	1	:*	b8ff,176x45,0,0{88x45,0,0,2,87x45,89,0[87x33,89,0,3,87x11,89,34,4]}
+window	1	1	1	:*	2d88,176x45,0,0{88x45,0,0[88x22,0,0,5,88x22,0,23,7],87x45,89,0,6}
+window	1	2	0	:#-	c345,176x45,0,0,8
+state	1	

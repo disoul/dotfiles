@@ -1,0 +1,4 @@
+pane	0	1	:zsh	1	:*	1	:/Users/disoul/github/spider_man	1	zsh	:
+pane	0	1	:zsh	1	:*	2	:/Users/disoul/github/spider_man	0	zsh	:
+window	0	1	1	:*	cbe1,159x38,0,0{79x38,0,0,0,79x38,80,0,1}
+state	0	

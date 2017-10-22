@@ -1,0 +1,12 @@
+pane	0	1	:zsh	1	:*	1	:/Users/disoul/Documents/imagetech	1	zsh	:
+pane	0	2	:zsh	0	:-	1	:/Users/disoul/Documents/imagetech	0	zsh	:
+pane	0	2	:zsh	0	:-	2	:/Users/disoul/Documents/videodetect/src/routes	1	zsh	:
+pane	1	1	:node	0	:-	1	:/Users/disoul/github/chengshi3/service	0	node	:node ./bin/www -s rds
+pane	1	1	:node	0	:-	2	:/Users/disoul/github/chengshi3/static	1	node	:npm  
+pane	1	2	:zsh	1	:*	1	:/Users/disoul/github/chengshi3/static/src/routes/_project/xiaohe	1	zsh	:
+pane	1	2	:zsh	1	:*	2	:/Users/disoul/github/chengshi3/static/src	0	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v router.js
+window	0	1	1	:*	c43d,178x45,0,0,0
+window	0	2	0	:-	264c,178x45,0,0{89x45,0,0,1,88x45,90,0,2}
+window	1	1	0	:-	2655,178x45,0,0{89x45,0,0,3,88x45,90,0,4}
+window	1	2	1	:*	803e,178x45,0,0{60x45,0,0,5,117x45,61,0,6}
+state	1	

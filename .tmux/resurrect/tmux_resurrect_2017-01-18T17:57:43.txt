@@ -1,0 +1,15 @@
+pane	0	1	:zsh	1	:*	1	:/Users/disoul/Documents/muyang	1	zsh	:
+pane	0	1	:zsh	1	:*	2	:/Users/disoul/Documents/muyang	0	zsh	:
+pane	0	2	:vim	0	:#-	1	:/Users/disoul/Documents/muyang/src/components/Card	1	vim	:vim Card.jsx
+pane	0	2	:vim	0	:#-	2	:/Users/disoul/Documents/muyang/src/components/Scene	0	vim	:vim Card/Card.jsx
+vim Scene/Scene.jsx
+pane	0	2	:vim	0	:#-	3	:/Users/disoul/Documents/muyang/src/components	0	zsh	:
+pane	0	2	:vim	0	:#-	4	:/Users/disoul/Documents/muyang/src/components/BackGround	0	vim	:vim app.js
+pane	0	2	:vim	0	:#-	5	:/Users/disoul/Documents/muyang/src/components/Card	0	vim	:vim index.css
+pane	0	3	:zsh	0	:#	1	:/Users/disoul/Documents/muyang/src/components/Card	0	vim	:vim Card/Card.jsx
+pane	0	3	:zsh	0	:#	2	:/Users/disoul/Documents/muyang/src/components/Scene	0	vim	:vim Scene/Scene.jsx
+pane	0	3	:zsh	0	:#	3	:/Users/disoul/Documents/muyang	1	zsh	:
+window	0	1	1	:*	6886,234x59,0,0{117x59,0,0,0,116x59,118,0,17}
+window	0	2	0	:#-	f044,234x59,0,0{119x59,0,0[119x38,0,0,1,119x20,0,39,9],114x59,120,0[114x8,120,0,8,114x25,120,9,15,114x24,120,35,16]}
+window	0	3	0	:#	183c,234x59,0,0[234x29,0,0,11,234x29,0,30{117x29,0,30,12,116x29,118,30,13}]
+state	0	

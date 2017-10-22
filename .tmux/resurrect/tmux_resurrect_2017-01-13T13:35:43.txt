@@ -1,0 +1,31 @@
+pane	0	1	:zsh	1	:*	1	:/Users/disoul	0	zsh	:
+pane	0	1	:zsh	1	:*	2	:/Users/disoul	1	zsh	:
+pane	3	1	:zsh	1	:*	1	:/Users/disoul	1	zsh	:
+pane	4	1	:node	1	:*	1	:/Users/disoul/Documents/muyang	1	node	:npm  
+pane	4	1	:node	1	:*	2	:/Users/disoul/Documents/muyang/src/components/Card	0	vim	:vim index.css
+pane	4	1	:node	1	:*	3	:/Users/disoul/Documents/muyang/src/components/Scene	0	vim	:vim Scene/Scene.jsx
+pane	4	2	:zsh	0	:#-	1	:/Users/disoul/Documents/web/saga/redux-saga-beginner-tutorial	1	zsh	:
+pane	4	3	:zsh	0	:#	1	:/Users/disoul/Documents/web/saga/redux-saga-beginner-tutorial	1	zsh	:
+pane	4	4	:zsh	0	:#	1	:/Users/disoul/Documents/web/saga/redux-saga-beginner-tutorial	1	zsh	:
+pane	6	1	:vim	1	:*	1	:/Users/disoul/Documents/muyang/src/reducers	0	vim	:vim reducers/router.js
+pane	6	1	:vim	1	:*	2	:/Users/disoul/Documents/muyang/src/components	0	vim	:vim App.jsx
+pane	6	1	:vim	1	:*	3	:/Users/disoul/Documents/muyang/src/components/Scene	1	vim	:vim Scene/Scene.jsx
+pane	6	1	:vim	1	:*	4	:/Users/disoul/Documents/muyang/src/components/Scene	0	node	:node --harmony
+pane	7	1	:zsh	1	:*	1	:/Users/disoul/Documents/cloud/src/containers/people-cloud	0	vim	:vim people-cloud/index.js
+pane	7	1	:zsh	1	:*	2	:/Users/disoul/Documents/cloud	1	zsh	:
+pane	7	1	:zsh	1	:*	3	:/Users/disoul/Documents/cloud/src/actions/peopleCloud	0	vim	:vim src/actions/peopleCloud/populations.js
+pane	7	1	:zsh	1	:*	4	:/Users/disoul/Documents/lmap-react/components/AreaScalable	0	vim	:vim components/AreaScalable/AreaScalable.js
+pane	8	1	:zsh	1	:*	1	:/Users/disoul/Documents/zcontrol/components/Input	0	vim	:vim Input/Input.jsx
+pane	8	1	:zsh	1	:*	2	:/Users/disoul/Documents/zcontrol/components/Group	0	vim	:vim index.css
+pane	8	1	:zsh	1	:*	3	:/Users/disoul/Documents/zcontrol/src	0	vim	:vim data.js
+pane	8	1	:zsh	1	:*	4	:/Users/disoul/Documents/zcontrol	1	zsh	:
+window	0	1	1	:*	9ba5,236x62,0,0{118x62,0,0,0,117x62,119,0,1}
+window	3	1	1	:*	b601,164x23,0,0,4
+window	4	1	1	:*	54a6,236x58,0,0{120x58,0,0[120x30,0,0,5,120x27,0,31,8],115x58,121,0,6}
+window	4	2	0	:#-	6864,236x58,0,0,34
+window	4	3	0	:#	6865,236x58,0,0,35
+window	4	4	0	:#	6866,236x58,0,0,36
+window	6	1	1	:*	c0e7,236x58,0,0{115x58,0,0[115x33,0,0,15,115x24,0,34,27],120x58,116,0[120x42,116,0,16,120x15,116,43,37]}
+window	7	1	1	:*	191d,236x58,0,0{117x58,0,0[117x35,0,0,19,117x22,0,36,21],118x58,118,0[118x27,118,0,20,118x30,118,28,22]}
+window	8	1	1	:*	e1dd,236x58,0,0{117x58,0,0[117x26,0,0,28,117x31,0,27,30],118x58,118,0[118x27,118,0,29,118x30,118,28,33]}
+state	6	

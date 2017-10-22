@@ -1,0 +1,6 @@
+pane	0	1	:node	0	:#-	1	:/Users/disoul/Documents/zgrid	1	node	:npm   
+pane	0	2	:Vim	1	:*	1	:/Users/disoul/Documents/zgrid/app/containers/MainPage	0	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v index.jsx
+pane	0	2	:Vim	1	:*	2	:/Users/disoul/Documents/zgrid/app/containers/MainPage/components/MainPlane	1	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v index.jsx
+window	0	1	0	:#-	b65d,236x61,0,0,0
+window	0	2	1	:*	9729,236x61,0,0{118x61,0,0,3,117x61,119,0,4}
+state	0	

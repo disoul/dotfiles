@@ -1,0 +1,9 @@
+pane	0	1	:node	0	:#	1	:/Users/disoul/Documents/coding/wxwhg_OR	0	python2.7	:python ./manage.py runserver
+pane	0	1	:node	0	:#	2	:/Users/disoul/Documents/coding/wxwhg_OR	1	node	:node ./node_modules/.bin/webpack --watch
+pane	0	2	:vim	1	:*	1	:/Users/disoul/Documents/coding/wxwhg_OR/assets/js/components	0	vim	:vim ActivityForm.jsx
+pane	0	2	:vim	1	:*	2	:/Users/disoul/Documents/coding/wxwhg_OR/wxwhgOR	1	vim	:vim models.py
+pane	0	3	:vim	0	:#-	1	:/Users/disoul/Documents/coding/wxwhg_OR/wxwhgOR	1	vim	:vim models.py
+window	0	1	0	:#	6827,176x45,0,0{88x45,0,0,0,87x45,89,0,2}
+window	0	2	1	:*	e82b,176x45,0,0{88x45,0,0,1,87x45,89,0,3}
+window	0	3	0	:#-	c341,176x45,0,0,4
+state	0	

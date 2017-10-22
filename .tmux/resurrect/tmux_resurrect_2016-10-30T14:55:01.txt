@@ -1,0 +1,4 @@
+pane	0	1	:..ocuments/lmap	1	:*	1	:/Users/disoul/Documents/lmap/layer	1	vim	:vim ../../layer/scatter_konva.js
+pane	0	1	:..ocuments/lmap	1	:*	2	:/Users/disoul/Documents/lmap/demo	0	vim	:vim tzmap.js
+window	0	1	1	:*	257f,203x47,0,0{101x47,0,0,0,101x47,102,0,1}
+state	0	

@@ -1,0 +1,9 @@
+pane	0	1	:vim	1	:*	1	:/Users/disoul/.nvm/versions/node/v7.0.0/bin	1	vim	:vim /Users/disoul/.nvm/versions/node/v7.0.0/bin/nodeHarmony
+pane	1	1	:..ocuments/Ryou	1	:*	1	:/Users/disoul/Documents/Ryou/utils	0	vim	:vim index.js
+pane	1	1	:..ocuments/Ryou	1	:*	2	:/Users/disoul/Documents/Ryou	1	zsh	:
+pane	1	1	:..ocuments/Ryou	1	:*	3	:/Users/disoul/Documents/Ryou/cli	0	vim	:emacs
+vim action-client.js
+pane	1	1	:..ocuments/Ryou	1	:*	4	:/Users/disoul/Documents/Ryou/cli	0	vim	:vim action-server.js
+window	0	1	1	:*	c71e,201x47,0,0,1
+window	1	1	1	:*	9383,201x47,0,0{100x47,0,0[100x23,0,0,5,100x23,0,24,9],100x47,101,0[100x23,101,0,4,100x23,101,24,7]}
+state	1	

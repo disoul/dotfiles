@@ -1,0 +1,4 @@
+pane	0	1	:zsh	1	:*	1	:/Users/disoul/Documents/letslongin/script/content	0	vim	:vim index.js
+pane	0	1	:zsh	1	:*	2	:/Users/disoul/Documents/letslongin	1	zsh	:
+window	0	1	1	:*	843f,178x43,0,0{89x43,0,0,0,88x43,90,0,1}
+state	0	

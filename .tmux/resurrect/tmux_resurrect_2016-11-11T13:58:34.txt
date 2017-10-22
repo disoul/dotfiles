@@ -1,0 +1,20 @@
+pane	0	1	:..uments/webfft	1	:*	1	:/Users/disoul/Documents/webfft	1	zsh	:
+pane	0	1	:..uments/webfft	1	:*	2	:/Users/disoul/Documents/osu-canvas/src/canvas	0	vim	:vim frequencyBar.js
+pane	0	1	:..uments/webfft	1	:*	3	:/Users/disoul/Documents/osu-canvas/src	0	vim	:vim app.js
+pane	0	1	:..uments/webfft	1	:*	4	:/Users/disoul/Documents/osu-canvas/src/model	0	vim	:vim model/load.js
+pane	1	1	:node	1	:*	1	:/Users/disoul/Documents/webfft	0	vim	:vim index.js
+pane	1	1	:node	1	:*	2	:/Users/disoul/Documents/webfft/node_modules/.0.0.9@fft-js/src	1	vim	:vim src/fft.js
+pane	1	1	:node	1	:*	3	:/Users/disoul/Documents/webfft	0	node	:node --harmony
+pane	2	1	:..ocuments/fuko	1	:*	1	:/Users/disoul/Documents/fuko	1	zsh	:
+pane	3	1	:anywhere	1	:*	1	:/Users/disoul/Downloads/security_screen+handler+removeAutohash_newSocketIOEvent_v4	0	zsh	:
+pane	3	1	:anywhere	1	:*	2	:/Users/disoul/Downloads/Live2D_SDK_WebGL_2.1.00_1_en	1	node	:node /Users/disoul/.nvm/versions/node/v6.8.0/bin/anywhere
+pane	4	1	:vim	1	:*	1	:/Users/disoul/Documents/osu-canvas/beatmaps/332532 Panda Eyes & Teminite - Highscore	1	zsh	:
+pane	4	1	:vim	1	:*	2	:/Users/disoul/Documents/osu-canvas/src	0	vim	:vim src/app.js
+pane	5	1	:zsh	1	:*	1	:/Users/disoul/Documents/osu-canvas/src	1	zsh	:(bash)
+window	0	1	1	:*	d34b,201x47,0,0{100x47,0,0[100x23,0,0,0,100x23,0,24,2],100x47,101,0[100x23,101,0,1,100x23,101,24,3]}
+window	1	1	1	:*	5ecb,201x47,0,0{100x47,0,0,4,100x47,101,0[100x23,101,0,5,100x23,101,24,6]}
+window	2	1	1	:*	c724,201x47,0,0,7
+window	3	1	1	:*	fcfa,201x47,0,0{100x47,0,0,8,100x47,101,0,9}
+window	4	1	1	:*	20c5,203x47,0,0{101x47,0,0,10,101x47,102,0,11}
+window	5	1	1	:*	6441,203x47,0,0,12
+state	5	

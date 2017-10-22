@@ -1,0 +1,4 @@
+pane	0	1	:vim	1	:*	1	:/Users/disoul/Documents/lmap/layer	0	vim	:vim scatter_canvas.js
+pane	0	1	:vim	1	:*	2	:/Users/disoul/Documents/lmap/demo	1	vim	:vim tzmap.js
+window	0	1	1	:*	257f,203x47,0,0{101x47,0,0,0,101x47,102,0,1}
+state	0	

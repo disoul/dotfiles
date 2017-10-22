@@ -1,0 +1,23 @@
+pane	0	1	:zsh	0	:#-	1	:/Users/disoul/Documents/zatlas	1	zsh	:
+pane	0	1	:zsh	0	:#-	2	:/Users/disoul/Documents/zatlas/build/libs/eul	0	zsh	:
+pane	0	2	:zsh	1	:*	1	:/Users/disoul/Documents/zatlas	1	zsh	:
+pane	0	2	:zsh	1	:*	2	:/Users/disoul/Documents/zatlas/src/routes/PageScene	0	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v PageScene/index.js
+pane	1	1	:zsh	1	:*	1	:/Users/disoul/github/spider_man	1	zsh	:
+pane	1	1	:zsh	1	:*	2	:/Users/disoul/github/spider_man/task/utils	0	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v task/utils/lianjia.js
+pane	3	1	:Vim	1	:*	1	:/Users/disoul/Documents/zatlas/src	0	zsh	:
+pane	3	1	:Vim	1	:*	2	:/Users/disoul/Documents/zatlas/src/models	0	zsh	:
+pane	3	1	:Vim	1	:*	3	:/Users/disoul/Documents/zatlas/src/libs/lmap	0	zsh	:
+pane	3	1	:Vim	1	:*	4	:/Users/disoul/Documents/zatlas/src/utils	1	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v utils/index.js
+pane	3	2	:node	0	:#!-	1	:/Users/disoul/Documents/zatlas	1	node	:npm  
+pane	3	2	:node	0	:#!-	2	:/Users/disoul/Documents/zazatlasweb/src/main/resources/static/static	0	zsh	:
+pane	3	2	:node	0	:#!-	3	:/Users/disoul/Documents/zatlas	0	zsh	:
+pane	4	1	:zsh	1	:*	1	:/Users/disoul/python	1	zsh	:
+pane	4	2	:zsh	0	:#-	1	:/Users/disoul/Documents/zatlas-home	1	zsh	:
+window	0	1	0	:#-	8a34,236x60,0,0{117x60,0,0,0,118x60,118,0,1}
+window	0	2	1	:*	8a37,236x60,0,0{117x60,0,0,2,118x60,118,0,3}
+window	1	1	1	:*	539c,236x61,0,0{119x61,0,0,5,116x61,120,0,6}
+window	3	1	1	:*	e47a,176x45,0,0{93x45,0,0[93x26,0,0,30,93x18,0,27,31],82x45,94,0[82x21,94,0,25,82x23,94,22,32]}
+window	3	2	0	:#!-	738c,176x45,0,0{88x45,0,0[88x22,0,0,10,88x22,0,23,12],87x45,89,0,11}
+window	4	1	1	:*	e1d7,176x45,0,0,28
+window	4	2	0	:#-	e1d8,176x45,0,0,29
+state	3	

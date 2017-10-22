@@ -1,0 +1,4 @@
+pane	0	1	:..su-canvas/src	1	:*	1	:/Users/disoul/Documents/osu-canvas/beatmaps/39804 xi - FREEDOM DiVE	0	vim	:vim xi - FREEDOM DiVE (Nakagawa-Kanon) [FOUR DIMENSIONS].osu
+pane	0	1	:..su-canvas/src	1	:*	2	:/Users/disoul/Documents/osu-canvas/src	1	zsh	:
+window	0	1	1	:*	fcee,201x47,0,0{100x47,0,0,0,100x47,101,0,1}
+state	0	

@@ -1,0 +1,11 @@
+pane	0	1	:zsh	1	:*	1	:/Users/disoul/Documents/web/three-task/shader	1	zsh	:
+pane	0	2	:Vim	0	:-	1	:/Users/disoul/Documents/web/three-task/shader	1	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v index.js
+pane	0	2	:Vim	0	:-	2	:/Users/disoul/Documents/web/three-task/shader	0	zsh	:
+pane	1	1	:node	0	:#-	1	:/Users/disoul/Documents/zatlas-home	1	node	:npm  
+pane	1	2	:Vim	1	:*	1	:/Users/disoul/Documents/zatlas-home/src/routes/HomePage/components/FeatureBlock	1	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v FeatureBlock/featureblock.css
+pane	1	2	:Vim	1	:*	2	:/Users/disoul/Documents/zatlas-home/src	0	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v index.css
+window	0	1	1	:*	c73d,176x46,0,0,0
+window	0	2	0	:-	f92f,176x46,0,0{88x46,0,0,1,87x46,89,0,3}
+window	1	1	0	:#-	c742,176x46,0,0,5
+window	1	2	1	:*	f945,176x46,0,0{88x46,0,0,6,87x46,89,0,7}
+state	1	

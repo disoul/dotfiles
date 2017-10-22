@@ -1,0 +1,4 @@
+pane	0	1	:shader-school	1	:*	1	:/Users/disoul/Documents/web	1	node	:node /Users/disoul/.nvm/versions/node/v6.8.0/bin/shader-school
+pane	0	1	:shader-school	1	:*	2	:/Users/disoul/Documents/web/08-frag-2	0	vim	:vim 08-frag-2/fragment.glsl
+window	0	1	1	:*	b74b,178x46,0,0{89x46,0,0,0,88x46,90,0,1}
+state	0	

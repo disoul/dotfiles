@@ -1,0 +1,13 @@
+pane	0	1	:..nts/wscontrol	1	:*	1	:/Users/disoul/Documents/wscontrol	1	zsh	:
+pane	0	1	:..nts/wscontrol	1	:*	2	:/Users/disoul/Documents/wscontrol	0	zsh	:
+pane	1	1	:..ds/mac/ubuntu	1	:*	1	:/Users/disoul/Downloads/mac/ubuntu	0	vim	:vim config_node
+pane	1	1	:..ds/mac/ubuntu	1	:*	2	:/Users/disoul/Downloads/mac/ubuntu	1	zsh	:
+pane	2	1	:..rc/components	1	:*	1	:/Users/disoul/Documents/wscontrol/src/components	1	zsh	:
+pane	2	1	:..rc/components	1	:*	2	:/Users/disoul/Documents/wscontrol/src/components	0	vim	:vim Content.jsx
+pane	3	1	:node	1	:*	1	:/Users/disoul/Documents/fuko	1	node	:node server.js
+pane	3	1	:node	1	:*	2	:/Users/disoul/Documents/fuko/test	0	vim	:vim index.html
+window	0	1	1	:*	fcee,201x47,0,0{100x47,0,0,0,100x47,101,0,1}
+window	1	1	1	:*	fcf1,201x47,0,0{100x47,0,0,2,100x47,101,0,3}
+window	2	1	1	:*	fcf5,201x47,0,0{100x47,0,0,4,100x47,101,0,7}
+window	3	1	1	:*	7cf6,201x47,0,0{100x47,0,0,5,100x47,101,0,6}
+state	3	

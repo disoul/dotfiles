@@ -1,0 +1,7 @@
+pane	0	1	:vim	0	:-	1	:/Users/disoul/Documents/oshomework	1	vim	:vim stroage.js
+pane	0	1	:vim	0	:-	2	:/Users/disoul/Documents/oshomework	0	zsh	:
+pane	0	1	:vim	0	:-	3	:/Users/disoul/Documents/oshomework	0	zsh	:
+pane	0	2	:./manage.py	1	:*	1	:/Users/disoul/Documents/coding/wxwhg_OR	1	python2.7	:python ./manage.py runserver
+window	0	1	0	:-	37de,178x46,0,0{89x46,0,0[89x23,0,0,0,89x22,0,24,2],88x46,90,0,1}
+window	0	2	1	:*	c840,178x46,0,0,3
+state	0	

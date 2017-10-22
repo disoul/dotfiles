@@ -1,0 +1,28 @@
+pane	0	1	:zsh	1	:*	1	:/Users/disoul/github/chengshi3/static	1	zsh	:
+pane	0	1	:zsh	1	:*	2	:/Users/disoul/github/chengshi3/service	0	zsh	:
+pane	1	1	:zsh	1	:*	1	:/Users/disoul/github/spider_man/model/models	0	zsh	:
+pane	1	1	:zsh	1	:*	2	:/Users/disoul/github/spider_man	1	zsh	:
+pane	1	1	:zsh	1	:*	3	:/Users/disoul/github/spider_man	0	zsh	:
+pane	2	1	:zsh	0	:#-	1	:/Users/disoul/Documents/zatlas	0	zsh	:
+pane	2	1	:zsh	0	:#-	2	:/Users/disoul/Documents/zatlas	0	zsh	:
+pane	2	1	:zsh	0	:#-	3	:/Users/disoul/Documents/eul	1	zsh	:
+pane	2	2	:ssh	1	:*	1	:/Users/disoul/Documents/zatlas/src	1	ssh	:ssh fuko
+pane	2	2	:ssh	1	:*	2	:/Users/disoul/Documents/zatlas	0	ssh	:ssh haruhi
+pane	2	3	:Vim	0	:#	1	:/Users/disoul/Documents/zatlas/src/libs/react-grid-layout/lib	1	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v utils.js
+pane	2	3	:Vim	0	:#	2	:/Users/disoul/Documents/zatlas/src/libs/react-grid-layout/lib	0	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v ReactGridLayout.jsx
+pane	2	3	:Vim	0	:#	3	:/Users/disoul/Documents/zatlas/src/libs/react-grid-layout	0	zsh	:
+pane	3	1	:zsh	1	:*	1	:/Users/disoul/homework/live2dWeb	1	zsh	:
+pane	4	1	:node	1	:*	1	:/Users/disoul/Documents/zatlas	0	node	:npm  
+pane	4	1	:node	1	:*	2	:/Users/disoul/Documents/zatlas	0	node	:npm   
+pane	4	1	:node	1	:*	3	:/Users/disoul/Documents/eul	1	node	:npm  
+pane	4	1	:node	1	:*	4	:/Users/disoul/.ssh	0	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v .ssh/config
+pane	4	2	:zsh	0	:-	1	:/Users/disoul/Documents/zatlas/src	1	zsh	:
+window	0	1	1	:*	1dc1,176x45,0,0[176x22,0,0,0,176x22,0,23,1]
+window	1	1	1	:*	ad50,176x45,0,0{88x45,0,0[88x22,0,0,2,88x22,0,23,4],87x45,89,0,3}
+window	2	1	0	:#-	2e5f,236x61,0,0{120x61,0,0[120x39,0,0,5,120x21,0,40,12],115x61,121,0,6}
+window	2	2	1	:*	4caa,236x61,0,0{120x61,0,0,21,115x61,121,0,32}
+window	2	3	0	:#	cb6a,236x61,0,0{120x61,0,0,26,115x61,121,0[115x32,121,0,28,115x28,121,33,31]}
+window	3	1	1	:*	5b66,236x61,0,0,17
+window	4	1	1	:*	a8be,236x61,0,0{118x61,0,0[118x30,0,0,35,118x30,0,31,39],117x61,119,0[117x30,119,0,36,117x30,119,31,38]}
+window	4	2	0	:-	5b67,236x61,0,0,37
+state	4	

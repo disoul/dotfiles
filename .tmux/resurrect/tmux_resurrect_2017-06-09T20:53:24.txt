@@ -1,0 +1,8 @@
+pane	0	1	:scp	1	:*	1	:/Users/disoul/homework/live2dWeb	1	scp	:scp -r dist fuko:github
+pane	0	1	:scp	1	:*	2	:/Users/disoul/homework/live2dWeb/dist	0	ssh	:ssh nagisa
+pane	0	2	:zsh	0	:#-	1	:/Users/disoul/homework/live2dWeb	0	zsh	:
+pane	0	2	:zsh	0	:#-	2	:/Users/disoul/homework/live2dWeb/src/components	0	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v components/Live2d.js
+pane	0	2	:zsh	0	:#-	3	:/Users/disoul/homework/live2dWeb	1	zsh	:
+window	0	1	1	:*	66e8,236x55,0,0{118x55,0,0,0,117x55,119,0,4}
+window	0	2	0	:#-	fb77,236x55,0,0{118x55,0,0,1,117x55,119,0[117x27,119,0,2,117x27,119,28,3]}
+state	0	

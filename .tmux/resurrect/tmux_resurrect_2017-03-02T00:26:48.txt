@@ -1,0 +1,55 @@
+pane	0	1	:zsh	1	:*	1	:/Users/disoul/Documents/letslongin	1	zsh	:
+pane	0	1	:zsh	1	:*	2	:/Users/disoul/Documents/letslongin/server	0	vim	:vim app.js
+pane	0	1	:zsh	1	:*	3	:/Users/disoul/Documents/letslongin/app/script/popup	0	vim	:vim script/popup/index.js
+pane	0	2	:node	0	:#-	1	:	0	sudo	:sudo mongod
+pane	0	2	:node	0	:#-	2	:/Users/disoul/Documents/letslongin/server	1	node	:node /Users/disoul/.nvm/versions/node/v7.6.0/bin/nodemon app.js
+pane	1	1	:zsh	1	:*	1	:/Users/disoul/Public/kefu-webim-plugin_43.12	0	vim	:vim README.md
+pane	1	1	:zsh	1	:*	2	:/Users/disoul/Public/kefu-webim-plugin_43.12/server	1	zsh	:
+pane	1	2	:zsh	0	:#-	1	:/Users/disoul	1	zsh	:
+pane	1	2	:zsh	0	:#-	2	:/Users/disoul	0	zsh	:
+pane	2	1	:zsh	1	:*	1	:/Users/disoul/learning/webassembly/hello	0	vim	:vim hello.wasm
+pane	2	1	:zsh	1	:*	2	:/Users/disoul/learning/rust/hello_world/src	0	vim	:vim src/main.rs
+pane	2	1	:zsh	1	:*	3	:/Users/disoul/learning/rust/hello_world/src	1	zsh	:
+pane	3	1	:zsh	0	:-	1	:/Users/disoul/github/real-estate	1	zsh	:
+pane	3	1	:zsh	0	:-	2	:/Users/disoul/github/real-estate	0	zsh	:
+pane	3	1	:zsh	0	:-	3	:/Users/disoul/github/database/app/src/utils	0	vim	:vim api.js
+pane	3	2	:zsh	1	:*	1	:/Users/disoul/github/database	1	zsh	:
+pane	3	2	:zsh	1	:*	2	:/Users/disoul/github/database/app/src/components	0	vim	:vim App.jsx
+pane	3	3	:node	0	:	1	:/Users/disoul/github/database	1	node	:node ./server/bin/www
+pane	4	1	:zsh	1	:*	1	:/Users/disoul/Documents/ACloud	1	zsh	:
+pane	4	1	:zsh	1	:*	2	:/Users/disoul/Documents/ACloud	0	zsh	:
+pane	4	1	:zsh	1	:*	3	:/Users/disoul/Documents/ACloud/src	0	vim	:vim src/html_lianxi.js
+pane	5	1	:zsh	0	:-	1	:/Users/disoul/Documents/ann	1	zsh	:
+pane	5	2	:zsh	1	:*	1	:/Users/disoul/Documents/ann/src	0	zsh	:
+pane	5	2	:zsh	1	:*	2	:/Users/disoul/Documents/ann/src/containers/HomePage/components/ServiceBoard	0	vim	:vim BaasService.jsx
+pane	5	2	:zsh	1	:*	3	:/Users/disoul/Documents/ann/src/containers/HomePage/components/ServiceBoard	0	zsh	:
+pane	5	2	:zsh	1	:*	4	:/Users/disoul/Documents/ann	1	zsh	:
+pane	6	1	:python2.7	0	:#-	1	:/Users/disoul/Documents/coding/wxwhg_OR	0	node	:npm  
+pane	6	1	:python2.7	0	:#-	2	:/Users/disoul/Documents/coding/wxwhg_OR	1	python2.7	:python ./manage.py runserver
+pane	6	2	:zsh	1	:*	1	:/Users/disoul/Documents/coding/wxwhg_OR	1	zsh	:
+pane	6	2	:zsh	1	:*	2	:/Users/disoul/Documents/coding/wxwhg_OR/assets/js	0	zsh	:
+pane	7	1	:zsh	1	:*	1	:/Users/disoul/Public/kefu-webim-plugin_43.12/server	1	zsh	:
+pane	7	1	:zsh	1	:*	2	:/Users/disoul/Public/kefu-webim-plugin_43.12/static/css	0	vim	:vim im.css
+pane	7	1	:zsh	1	:*	3	:/Users/disoul/Public/kefu-webim-plugin_43.12	0	vim	:vim README.md
+pane	8	1	:zsh	1	:*	1	:/Users/disoul/github/react-intl/examples/translations	0	zsh	:
+pane	8	1	:zsh	1	:*	2	:/Users/disoul/github/react-intl/examples/translations/scripts	1	zsh	:
+pane	9	1	:zsh	1	:*	1	:/Users/disoul/Documents/dunkey	1	zsh	:
+pane	9	1	:zsh	1	:*	2	:/Users/disoul/Documents/dunkey	0	node	:npm  
+pane	9	1	:zsh	1	:*	3	:/Users/disoul/Documents/dunkey/server	0	node	:node --harmony server.js
+window	0	1	1	:*	337a,236x58,0,0{120x58,0,0,2,115x58,121,0[115x22,121,0,5,115x35,121,23,6]}
+window	0	2	0	:#-	b48c,236x58,0,0{120x58,0,0,3,115x58,121,0,4}
+window	1	1	1	:*	f472,236x58,0,0{118x58,0,0,7,117x58,119,0,8}
+window	1	2	0	:#-	3a8f,236x58,0,0{118x58,0,0,9,117x58,119,0,10}
+window	2	1	1	:*	6917,236x58,0,0{118x58,0,0,11,117x58,119,0[117x29,119,0,12,117x28,119,30,16]}
+window	3	1	0	:-	4794,176x42,0,0{88x42,0,0,20,87x42,89,0[87x17,89,0,21,87x24,89,18,22]}
+window	3	2	1	:*	9ba2,176x42,0,0{88x42,0,0,23,87x42,89,0,24}
+window	3	3	0	:	dbd4,176x42,0,0,25
+window	4	1	1	:*	99e0,176x42,0,0{88x42,0,0,26,87x42,89,0[87x21,89,0,27,87x20,89,22,28]}
+window	5	1	0	:-	5bd1,176x42,0,0,31
+window	5	2	1	:*	3c97,176x42,0,0{88x42,0,0[88x21,0,0,39,88x20,0,22,41],87x42,89,0[87x38,89,0,47,87x3,89,39,36]}
+window	6	1	0	:#-	1ba5,176x42,0,0{88x42,0,0,43,87x42,89,0,44}
+window	6	2	1	:*	1baa,176x42,0,0{88x42,0,0,45,87x42,89,0,46}
+window	7	1	1	:*	7aa0,176x42,0,0{88x42,0,0,48,87x42,89,0[87x21,89,0,49,87x20,89,22,50]}
+window	8	1	1	:*	5ba1,176x42,0,0{88x42,0,0,51,87x42,89,0,52}
+window	9	1	1	:*	797f,176x42,0,0{88x42,0,0,53,87x42,89,0[87x21,89,0,54,87x20,89,22,55]}
+state	3	

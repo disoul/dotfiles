@@ -1,0 +1,8 @@
+pane	0	1	:node	1	:*	1	:/Users/disoul/Documents/imagetech	1	node	:npm  
+pane	0	1	:node	1	:*	2	:/Users/disoul/Documents/imagetech	0	zsh	:
+pane	0	2	:Vim	0	:#-	1	:/Users/disoul/Documents/imagetech/src/routes/HomePage/ProductCard	1	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v index.js
+pane	0	2	:Vim	0	:#-	2	:/Users/disoul/Documents/imagetech/src/routes/HomePage	0	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v index.css
+pane	0	2	:Vim	0	:#-	3	:/Users/disoul/Documents/imagetech/src/routes/HomePage	0	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v index.jsx
+window	0	1	1	:*	f92a,176x46,0,0{88x46,0,0,0,87x46,89,0,1}
+window	0	2	0	:#-	43a6,176x46,0,0{88x46,0,0,2,87x46,89,0[87x18,89,0,4,87x27,89,19,8]}
+state	0	

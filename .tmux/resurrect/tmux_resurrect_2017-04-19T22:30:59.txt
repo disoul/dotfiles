@@ -1,0 +1,7 @@
+pane	0	1	:zsh	1	:*	1	:/Users/disoul/Documents/zatlas	1	zsh	:
+pane	0	1	:zsh	1	:*	2	:/Users/disoul/Documents/block-chain-monitor/src/components	0	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v components/Layout.js
+pane	0	1	:zsh	1	:*	3	:/Users/disoul/Documents/zatlas/src/routes	0	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v IndexPage.js
+pane	0	2	:node	0	:#-	1	:/Users/disoul/Documents/zatlas	1	node	:npm  
+window	0	1	1	:*	fb73,236x55,0,0{118x55,0,0,0,117x55,119,0[117x27,119,0,2,117x27,119,28,3]}
+window	0	2	0	:#-	c45e,236x55,0,0,1
+state	0	

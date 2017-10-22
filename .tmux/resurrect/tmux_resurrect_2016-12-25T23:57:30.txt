@@ -1,0 +1,41 @@
+pane	0	1	:..cuments/glmap	1	:*	1	:/Users/disoul/Documents/glmap	0	zsh	:
+pane	0	1	:..cuments/glmap	1	:*	2	:/Users/disoul/Documents/osu-canvas	1	zsh	:
+pane	1	1	:..ts/osu-canvas	1	:*	1	:/Users/disoul/Documents/osu-canvas	0	zsh	:
+pane	1	1	:..ts/osu-canvas	1	:*	2	:/Users/disoul/Documents/exchange/exchange/src/redux/account/actions	0	vim	:vim history.js
+pane	1	1	:..ts/osu-canvas	1	:*	3	:/Users/disoul/Documents/exchange/exchange	0	vim	:vim webpack.config.js
+pane	1	1	:..ts/osu-canvas	1	:*	4	:/Users/disoul/Documents/exchange/exchange/src/redux/account/pages	1	vim	:vim CoinWithdraw.jsx
+pane	10	1	:vim	1	:*	1	:/Users/disoul/Documents/cloud/src/containers/people-cloud	0	vim	:vim toolBox.js
+pane	10	1	:vim	1	:*	2	:/Users/disoul/Documents/cloud/src/containers/people-cloud	1	vim	:vim index.js
+pane	10	1	:vim	1	:*	3	:/Users/disoul/Documents/lmap/demo	0	vim	:vim demo/link_konva.html
+pane	10	1	:vim	1	:*	4	:/Users/disoul/Documents/cloud/src/store	0	vim	:vim store/initState.js
+pane	2	1	:~	1	:*	1	:/Users/disoul	1	zsh	:
+pane	3	1	:~/Documents/web	1	:*	1	:/Users/disoul/Documents/web	1	zsh	:
+pane	4	1	:..cuments/glmap	1	:*	1	:/Users/disoul/Documents/glmap/layer_2d	0	zsh	:
+pane	4	1	:..cuments/glmap	1	:*	2	:/Users/disoul/Documents/glmap/layer_2d	0	vim	:vim flow.js
+pane	4	1	:..cuments/glmap	1	:*	3	:/Users/disoul/Documents/glmap/demo	1	vim	:vim flow_2d_globe.js
+pane	4	1	:..cuments/glmap	1	:*	4	:/Users/disoul/Documents/glmap	0	zsh	:
+pane	5	1	:..ange/exchange	1	:*	1	:/Users/disoul/Documents/exchange/exchange	1	zsh	:
+pane	6	1	:vim	1	:*	1	:/private/tmp	0	vim	:vim .babelrc
+pane	6	1	:vim	1	:*	2	:/Users/disoul/.Trash/exchange3/exchange/src/redux/account	0	node	:node --harmony
+pane	6	1	:vim	1	:*	3	:/Users/disoul/.Trash/exchange3/docs	1	vim	:vim Withdrawals.md
+pane	7	1	:../web/particle	1	:*	1	:/Users/disoul/Documents/tzmap/tzmap/src	0	vim	:vim tzmap.js
+pane	7	1	:../web/particle	1	:*	2	:/Users/disoul/Desktop/互动媒体1402-张显阳   -张成功-陆玥玲/任务二	0	zsh	:
+pane	7	1	:../web/particle	1	:*	3	:/Users/disoul/Documents/web/particle	1	zsh	:
+pane	7	2	:anywhere	0	:-	1	:/Users/disoul/Documents/web/particle	0	node	:npm   
+pane	7	2	:anywhere	0	:-	2	:/Users/disoul/Documents/web/particle/build	1	node	:node /Users/disoul/.nvm/versions/node/v6.8.0/bin/anywhere
+pane	8	1	:node	1	:*	1	:/Users/disoul/Documents/osu-canvas/src	1	node	:node --harmony
+pane	8	1	:node	1	:*	2	:/Users/disoul/Documents/osu-canvas/src/canvas	0	vim	:vim canvas/frequencyBar.js
+pane	9	1	:npm	1	:*	1	:/Users/disoul/Documents/cloud	1	node	:npm  
+window	0	1	1	:*	b46b,176x45,0,0{88x45,0,0,0,87x45,89,0,23}
+window	1	1	1	:*	d87b,176x45,0,0{87x45,0,0[87x22,0,0,2,87x22,0,23,15],88x45,88,0[88x22,88,0,6,88x22,88,23,9]}
+window	10	1	1	:*	0151,176x45,0,0{88x45,0,0[88x22,0,0,32,88x22,0,23,35],87x45,89,0[87x22,89,0,33,87x22,89,23,34]}
+window	2	1	1	:*	c342,176x45,0,0,5
+window	3	1	1	:*	61cf,176x45,0,0,10
+window	4	1	1	:*	48e7,176x45,0,0{90x45,0,0[90x22,0,0,12,90x22,0,23,16],85x45,91,0[85x22,91,0,13,85x22,91,23,14]}
+window	5	1	1	:*	61d6,176x45,0,0,17
+window	6	1	1	:*	f3ae,176x45,0,0{88x45,0,0[88x22,0,0,18,88x22,0,23,20],87x45,89,0,19}
+window	7	1	1	:*	d280,176x45,0,0{88x45,0,0,24,87x45,89,0[87x22,89,0,25,87x22,89,23,26]}
+window	7	2	0	:-	e92f,176x45,0,0{88x45,0,0,29,87x45,89,0,30}
+window	8	1	1	:*	a92f,176x45,0,0{88x45,0,0,27,87x45,89,0,28}
+window	9	1	1	:*	61d1,176x45,0,0,31
+state	10	

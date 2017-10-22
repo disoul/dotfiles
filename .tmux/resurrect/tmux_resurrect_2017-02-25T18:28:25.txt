@@ -1,0 +1,4 @@
+pane	0	1	:vim	1	:*	1	:/Users/disoul/Documents/letslongin/server/resource	1	vim	:vim user.js
+pane	0	1	:vim	1	:*	2	:/Users/disoul/Documents/letslongin/server	0	vim	:vim app.js
+window	0	1	1	:*	843f,178x43,0,0{89x43,0,0,0,88x43,90,0,1}
+state	0	

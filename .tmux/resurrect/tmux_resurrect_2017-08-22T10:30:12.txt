@@ -1,0 +1,20 @@
+pane	0	1	:zsh	0	:#-	1	:/Users/disoul/Documents/zatlas	1	zsh	:
+pane	0	1	:zsh	0	:#-	2	:/Users/disoul/Documents/zatlas/build/libs/eul	0	zsh	:
+pane	0	2	:zsh	1	:*	1	:/Users/disoul/Documents/zatlas	1	zsh	:
+pane	0	2	:zsh	1	:*	2	:/Users/disoul/Documents/zatlas/src/routes/PageScene	0	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v PageScene/index.js
+pane	1	1	:zsh	1	:*	1	:/Users/disoul/github/spider_man	1	zsh	:
+pane	1	1	:zsh	1	:*	2	:/Users/disoul/github/spider_man/task/utils	0	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v task/utils/lianjia.js
+pane	3	1	:Vim	1	:*	1	:/Users/disoul/Documents/zatlas/src/charts/utils	0	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v utils/wrapper.js
+/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v utils/wrapper.js
+pane	3	1	:Vim	1	:*	2	:/Users/disoul/Documents/zatlas	0	zsh	:
+pane	3	1	:Vim	1	:*	3	:/Users/disoul/Documents/zatlas/src/libs/lmap-react/components/ScatterKonvaPlain	0	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v components/ScatterKonvaPlain/ScatterKonvaPlain.jsx
+pane	3	1	:Vim	1	:*	4	:/Users/disoul/Documents/zatlas/src/libs/lmap/layer	1	Vim	:/usr/local/Cellar/macvim/8.0-127/MacVim.app/Contents/MacOS/Vim -g -v lmap/layer/scatter_konva.js
+pane	3	2	:zsh	0	:#!-	1	:/Users/disoul/Documents/zatlas	0	node	:npm  
+pane	3	2	:zsh	0	:#!-	2	:/Users/disoul/Documents/zazatlasweb/src/main/resources/static/static	1	zsh	:
+pane	3	2	:zsh	0	:#!-	3	:/Users/disoul/Documents/zatlas	0	zsh	:
+window	0	1	0	:#-	8a34,236x60,0,0{117x60,0,0,0,118x60,118,0,1}
+window	0	2	1	:*	8a37,236x60,0,0{117x60,0,0,2,118x60,118,0,3}
+window	1	1	1	:*	539c,236x61,0,0{119x61,0,0,5,116x61,120,0,6}
+window	3	1	1	:*	d859,236x61,0,0{123x61,0,0[123x30,0,0,9,123x30,0,31,18],112x61,124,0[112x24,124,0,14,112x36,124,25,17]}
+window	3	2	0	:#!-	f017,236x61,0,0{118x61,0,0[118x30,0,0,10,118x30,0,31,12],117x61,119,0,11}
+state	3	
