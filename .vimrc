@@ -7,7 +7,8 @@
   call vundle#begin()
     Plugin 'gmarik/Vundle.vim'
     Plugin 'Raimondi/delimitMate'
-    Plugin 'Shougo/neocomplete.vim'
+    "Plugin 'Shougo/neocomplete.vim'
+    Plugin 'Valloric/YouCompleteMe'
     Plugin 'Shougo/vimproc.vim'
     Plugin 'Valloric/MatchTagAlways'
     "Plugin 'vim-syntastic/syntastic'
@@ -36,6 +37,7 @@
     Plugin 'michalliu/jsoncodecs.vim'
     Plugin 'michalliu/sourcebeautify.vim'
     Plugin 'fatih/vim-go'
+    Plugin 'leafgarland/typescript-vim'
    "" Plugin 'flowtype/vim-flow'
     Plugin 'wakatime/vim-wakatime'
   call vundle#end()
@@ -144,13 +146,14 @@
   if gitroot != ''
     let &tags = &tags . ',' . gitroot . '/.git/tags'
   endif
-  colorscheme PaperColor
+  " colorscheme PaperColor
   set t_Co=256
 
-  highlight ColorColumn ctermbg=234
+ "  highlight ColorColumn ctermbg=234
   set background=dark
   let g:solarized_termtrans=1
-  colo solarized
+  syntax enable
+  colorscheme solarized
 
   set nofoldenable                  " Auto fold code
   set foldlevel=1
@@ -253,6 +256,7 @@
     "let g:airline_left_alt_sep = '⮁'
     "let g:airline_right_sep = '⮂'
     "let g:airline_right_alt_sep = '⮃'
+    "
 
   "scrooloose/nerdtree
     nnoremap <leader>ne :NERDTreeFind<CR>
@@ -356,7 +360,7 @@
 
 
   "vim-airline/vim-airline-themes
-    let g:airline_theme='dark'
+    let g:airline_theme='solarized'
     let g:airline_powerline_fonts=1
 
 
@@ -594,7 +598,7 @@
   " }}}
   " gnuplot syntax highlighting
   au BufNewFile,BufRead *.plt,.gnuplot setf gnuplot
-  autocmd ColorScheme * highlight ExtraWhitespace ctermbg=red guibg=red
+  " autocmd ColorScheme * highlight ExtraWhitespace ctermbg=red guibg=red
   autocmd FileType ruby set dictionary+=~/.vim/dict/ruby.dict
   au FileType javascript set dictionary+=$HOME/.vim/dict/node.dict
 "}
