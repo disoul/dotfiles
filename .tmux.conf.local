@@ -158,7 +158,7 @@ tmux_conf_theme_right_separator_sub=''  #   PowerlineSymbols.otf font
 #     - #{username}
 #     - #{username_ssh}
 tmux_conf_theme_status_left=' ❐ #S | ↑#{?uptime_d, #{uptime_d}d,}#{?uptime_h, #{uptime_h}h,}#{?uptime_m, #{uptime_m}m,} '
-tmux_conf_theme_status_right='#{prefix}MikuTMUX#{pairing}#{?battery_status,#{battery_status},}#{?battery_bar,#{battery_bar},}#{?battery_percentage,#{battery_percentage},}, %R , %d %b | #{username}#{root} | #[fg=#ff4383]初音ミク'
+tmux_conf_theme_status_right='#{prefix} #{hostname} #{pairing} #{?battery_status,#{battery_status},} #{?battery_bar,#{battery_bar},} #{?battery_percentage,#{battery_percentage},} , %R , %d %b |  #{username}#{root} | #[fg=#ff4383]初音ミク'
 
 # status left style
 tmux_conf_theme_status_left_fg='#11787d,#e4e4e4,#ffffff'  # black, white , white

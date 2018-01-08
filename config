@@ -82,3 +82,12 @@ Host kingkong
 Host megumi
   HostName 172.104.189.26
   User disoul
+
+Host aliyunzhou
+  HostName 47.96.151.193
+  User disoul
+
+Host xenonvpn
+  HostName tsunagari.box.luohua.im
+  Port 10022
+  User disoul

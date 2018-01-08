@@ -6,6 +6,7 @@
   set rtp+=$GOPATH/src/github.com/golang/lint/misc/vim
   call vundle#begin()
     Plugin 'gmarik/Vundle.vim'
+    Plugin 'altercation/vim-colors-solarized'
     Plugin 'Raimondi/delimitMate'
     "Plugin 'Shougo/neocomplete.vim'
     Plugin 'Valloric/YouCompleteMe'
@@ -40,6 +41,7 @@
     Plugin 'leafgarland/typescript-vim'
    "" Plugin 'flowtype/vim-flow'
     Plugin 'wakatime/vim-wakatime'
+    Plugin 'tikhomirov/vim-glsl'
   call vundle#end()
 "}
 
@@ -252,10 +254,6 @@
     let g:airline_symbols.readonly = ''
     let g:airline_symbols.linenr = ''
     let g:airline_symbols.branch = ''
-    "let g:airline_left_sep = '⮀'
-    "let g:airline_left_alt_sep = '⮁'
-    "let g:airline_right_sep = '⮂'
-    "let g:airline_right_alt_sep = '⮃'
     "
 
   "scrooloose/nerdtree
@@ -343,24 +341,24 @@
   "pangloss/vim-javascript
   
     let g:javascript_plugin_jsdoc      = 1
-    let g:javascript_conceal_function  = "ƒ"
-    let g:javascript_conceal_null      = "ø"
-    let g:javascript_conceal_this      = "@"
-    let g:javascript_conceal_return    = "⇚"
-    let g:javascript_conceal_undefined = "¿"
-    let g:javascript_conceal_NaN       = "ℕ"
-    let g:javascript_conceal_prototype = "¶"
-    let g:javascript_conceal_static    = "•"
-    let g:javascript_conceal_super     = "Ω"
-    let g:javascript_conceal_class     = "𝘾"
-    let g:javascript_conceal_noarg_arrow_function = "🞅"
-    let g:javascript_conceal_underscore_arrow_function = "🞅"
+    "let g:javascript_conceal_function  = "ƒ"
+    "let g:javascript_conceal_null      = "ø"
+    "let g:javascript_conceal_this      = "@"
+    "let g:javascript_conceal_return    = "⇚"
+    "let g:javascript_conceal_undefined = "¿"
+    "let g:javascript_conceal_NaN       = "ℕ"
+    "let g:javascript_conceal_prototype = "¶"
+    "let g:javascript_conceal_static    = "•"
+    "let g:javascript_conceal_super     = "Ω"
+    "let g:javascript_conceal_class     = "𝘾"
+    "let g:javascript_conceal_noarg_arrow_function = "🞅"
+    "let g:javascript_conceal_underscore_arrow_function = "🞅"
 
     let g:javascript_plugin_flow = 1
 
 
   "vim-airline/vim-airline-themes
-    let g:airline_theme='solarized'
+    let g:airline_theme='tomorrow'
     let g:airline_powerline_fonts=1
 
 
