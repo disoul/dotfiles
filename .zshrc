@@ -1,5 +1,5 @@
 # Path to your oh-my-zsh installation.
-export ZSH=/home/disoul/.oh-my-zsh
+export ZSH=/Users/disoul/.oh-my-zsh
 
 # Set name of the theme to load.
 # Look in ~/.oh-my-zsh/themes/
@@ -49,13 +49,6 @@ plugins=(autojump git)
 
 # User configuration
 
-export ANDROID_SDK_HOME="/home/disoul/Public/android-sdk-linux"
-export ANDROID_NDK_HOME="/home/disoul/NDK/android-ndk-r9c"
-export PATH="${ANDROID_SDK_HOME}/tools:${ANDROID_SDK_HOME}/platform-tools:${ANDROID_NDK_HOME}:$PATH"
-
-export PATH="/home/disoul/local/bin:$PATH"
-# export MANPATH="/usr/local/man:$MANPATH"
-
 source $ZSH/oh-my-zsh.sh
 
 # You may need to manually set your language environment
@@ -86,40 +79,13 @@ source $ZSH/oh-my-zsh.sh
 alias cp='cp -i'
 alias rm='rm -i'
 alias fuck='eval $(thefuck $(fc -ln -1))'
-alias ssocks='sslocal -c ~/Public/socks/config.json'
-alias as='/home/disoul/Public/android-studio/bin/studio.sh'
+alias ls='gls --color=auto'
+alias ll='ls -al'
 
 # dir_colors
-eval `dircolors ~/.dir_colors`
+eval $(gdircolors ~/.dircolors/dircolors.256dark)
 
-# Detect term wrappers
-#WRAPPER_PID="$( ps -o ppid --no-headers | head -1 | tr -d "[:blank:]" )"
-WRAPPER_PID="$PPID"
-
-if [[ "x${WRAPPER_PID}" != "x" ]]; then
-	WRAPPER_PROGRAM="$( cat "/proc/${WRAPPER_PID}/cmdline" | tr '\0' ' ' )" ;
-else
-	WRAPPER_PROGRAM="unknown" ;
-fi
-#echo $WRAPPER_PROGRAM
-
-echo $WRAPPER_PROGRAM | grep 'terminator' > /dev/null && WRAPPER_PROGRAM="terminator"
-
-# set TERM variable
-if [[ "x${WRAPPER_PROGRAM}" == "xfbterm" ]]; then
-	TERM=fbterm ;
-elif [[ "x${WRAPPER_PROGRAM}" == "xTerminal" ]]; then
-	TERM=xterm-256color ;
-elif [[ "x${WRAPPER_PROGRAM}" == "xgnome-terminal" ]]; then
-	TERM=xterm-256color ;
-elif [[ "x${WRAPPER_PROGRAM}" == "xterminator" ]]; then
-	TERM=xterm-256color ;
-elif [[ "x${WRAPPER_PROGRAM}" == "xtmux" ]]; then
-	TERM=xterm-256color ;
-else
-	LANG="en_US.UTF-8" ;
-	export LANG ;
-fi
+TERM=xterm-256color ;
 export TERM
 
 
@@ -139,3 +105,9 @@ export NVM_DIR="$HOME/.nvm"
 
 # rust 
 source ~/.cargo/env
+#
+export GOROOT=/usr/local/go
+export PATH=${GOPATH}/bin:${PATH}
+
+# autojump
+  [ -f /usr/local/etc/profile.d/autojump.sh ] && . /usr/local/etc/profile.d/autojump.sh

@@ -80,8 +80,8 @@ Host kingkong
   User disoul
 
 Host megumi
-  HostName 172.104.189.26
-  User disoul
+  HostName 118.89.161.40 
+  User ubuntu
 
 Host aliyunzhou
   HostName 47.96.151.193
@@ -91,3 +91,11 @@ Host xenonvpn
   HostName tsunagari.box.luohua.im
   Port 10022
   User disoul
+
+Host pili
+  HostName sdk-vps.qnsdk.com
+  User root
+
+Host clouud
+  HostName 122.152.202.179
+  User ubuntu

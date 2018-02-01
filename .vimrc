@@ -42,6 +42,7 @@
    "" Plugin 'flowtype/vim-flow'
     Plugin 'wakatime/vim-wakatime'
     Plugin 'tikhomirov/vim-glsl'
+    Plugin 'chemzqm/wxapp.vim'
   call vundle#end()
 "}
 
@@ -358,7 +359,7 @@
 
 
   "vim-airline/vim-airline-themes
-    let g:airline_theme='tomorrow'
+    let g:airline_theme='solarized'
     let g:airline_powerline_fonts=1
 
 
